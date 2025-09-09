@@ -1,0 +1,458 @@
+[
+  {
+    "q": "He went to university in the UKa PhD in physics. get",
+    "a": [
+      "to make",
+      "to get",
+      "to being",
+      "to having"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "to getting",
+    "a": [
+      "the",
+      "some",
+      "to spend",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "because",
+      "for",
+      "to",
+      "Adam had obviously fallen asleep while sitting on the couch, but when asked about it later, he claimed he was simply meditating."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Steve's watch was not working properlyhe took it to a repair shop. but so",
+    "a": [
+      "so",
+      "for",
+      "because",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "because",
+    "a": [
+      "in order to",
+      "for",
+      "an",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "and",
+      "forgot have when came",
+      "the",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "forgot",
+    "a": [
+      "for",
+      "have",
+      "because",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "when",
+    "a": [
+      "in",
+      "because",
+      "but",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "…Mark didn't have much money, he wanted to buy a really expensive car.",
+    "a": [
+      "because",
+      "will",
+      "for",
+      "Although"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "In case",
+    "a": [
+      "but",
+      "and",
+      "because",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "because",
+    "a": [
+      "any",
+      "an",
+      "because",
+      "plenty of"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "quite a bit",
+    "a": [
+      "some",
+      "will build",
+      "a",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Tom's eyes hurt. Heto watch so much TV.",
+    "a": [
+      "would",
+      "to",
+      "ought not",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "must not",
+    "a": [
+      "because",
+      "via",
+      "will",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "during off",
+    "a": [
+      "would",
+      "but",
+      "whose",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "which who",
+    "a": [
+      "the",
+      "and",
+      "who",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "which",
+    "a": [
+      "because",
+      "finish",
+      "so",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "would finish",
+    "a": [
+      "because",
+      "an",
+      "was given",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "has given",
+    "a": [
+      "a",
+      "would",
+      "some",
+      "had made"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has been making",
+    "a": [
+      "were",
+      "is",
+      "was",
+      "are"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "will be",
+    "a": [
+      "to",
+      "and",
+      "were going",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Fatima doesn't eat fish, sowe have chicken for lunch? may",
+    "a": [
+      "because",
+      "an",
+      "shall",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "would",
+    "a": [
+      "an",
+      "to",
+      "any",
+      "to talk"
+    ],
+    "correct": 3,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "talking",
+    "a": [
+      "since",
+      "a",
+      "is still being repaired",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has still been repairing",
+    "a": [
+      "an",
+      "having worked",
+      "some",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If we had planned the project more carefully, millions of dollars could…...……...",
+    "a": [
+      "will",
+      "have been saved",
+      "a",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "Third conditional",
+    "explain": "If + had + past participle, would have + past participle."
+  },
+  {
+    "q": "Children are welcome to join us on our next tripthey behave themselves.",
+    "a": [
+      "provided that",
+      "so",
+      "will",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Tom's car broke down, so he'sHe didn’t know how to fix it himself.",
+    "a": [
+      "a",
+      "the",
+      "had it fixed",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "been it fixing",
+    "a": [
+      "a",
+      "have been made",
+      "for",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have been making",
+    "a": [
+      "a",
+      "an",
+      "beyond",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "within",
+    "a": [
+      "ate",
+      "an",
+      "for",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The new projectin two years.",
+    "a": [
+      "the",
+      "any",
+      "because",
+      "will be finished"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "You can learn many different languages at university, you can learn English, French, and Spanish.",
+    "a": [
+      "any",
+      "some",
+      "since",
+      "For example"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Choose the Best way to make the following sentences paragraph.",
+    "a": [
+      "since",
+      "so",
+      "and",
+      "(3). (2), (4), (1)"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "will",
+      "In 1926, the U.S. government opened its first major highway, called Route 66.",
+      "a",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Route 66 opened the U.S, government called its first major highway in 1926.",
+    "a": [
+      "for",
+      "but",
+      "an",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "then",
+    "a": [
+      "before? clean a be you Have",
+      "and",
+      "will",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Have you been clean",
+    "a": [
+      "an",
+      "Have you ever cleaned",
+      "so",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "q": "She always likes to visit London in the summer; London is……… favorite city. she her",
+    "a": [
+      "because",
+      "would",
+      "the",
+      "her"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "hers its",
+    "a": [
+      "would",
+      "some",
+      "to buy",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "that he buts",
+    "a": [
+      "will",
+      "Matt had a stressful day at work, so when he came home, he didn’t want to talk to anyone.",
+      "a",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Matt had a stressful day at work, so when he came home; he didn’t want to talk; to anyone.",
+    "a": [
+      "froze",
+      "the",
+      "so",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "freezes",
+    "a": [
+      "so",
+      "because",
+      "Jane is going on a work trip to Jubail next week.",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In which sentence is all PUNCTUATION correct?",
+    "a": [
+      "There are wonderful places to visit in Saudi Arabia. If you have the chance to travel, be sure not to miss Alula, Umluj and Jeddah.",
+      "but",
+      "since",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "since",
+      "Car companies are trying to make their vehicles cleaner every year.",
+      "a",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "To make their vehicles cleaner every year car companies are trying.",
+    "a": [
+      "Jake and his brother are meeting their friends tonight.",
+      "will",
+      "the",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "They have won a record 13 titles.",
+    "a": [
+      "(3), (4), (5), (1), (2)",
+      "any",
+      "to",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In the end, we both decided against…the English course.",
+    "a": [
+      "any",
+      "and",
+      "an",
+      "taking"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to take",
+    "a": [
+      "had better not",
+      "an",
+      "because",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had better not to",
+    "a": [
+      "didn’t",
+      "because",
+      "will",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "hasn’t",
+    "a": [
+      "a",
+      "because",
+      "some",
+      "was able to"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I didn’t daremy teacher I forgot my homework at home.",
+    "a": [
+      "to tell",
+      "since",
+      "but",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "My parents…at the university for 15 years. They both love their jobs.",
+    "a": [
+      "for",
+      "any",
+      "some",
+      "have been teaching"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Steve: Mr. Smith gave Peter an F on his essay.",
+    "a": [
+      "but",
+      "since",
+      "the",
+      "Did"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Didn’t",
+    "a": [
+      "be",
+      "was",
+      "are",
+      "were"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have did",
+    "a": [
+      "and",
+      "a",
+      "for",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The college building is still the same as it was 200 years agohas changed.",
+    "a": [
+      "some",
+      "to",
+      "Nothing",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I tried to register butof the courses were open. no",
+    "a": [
+      "to",
+      "none",
+      "so",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "no one",
+    "a": [
+      "quite",
+      "since",
+      "some",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Shall I tell Jim and Bill what the most important part of the course is or do theyknow?",
+    "a": [
+      "already",
+      "to",
+      "the",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "still",
+    "a": [
+      "an",
+      "a noise",
+      "the",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "one noise",
+    "a": [
+      "a",
+      "because",
+      "would",
+      "to have shared"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "having shared",
+    "a": [
+      "for",
+      "some",
+      "finish",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to finish",
+    "a": [
+      "will",
+      "and",
+      "lend",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "lended",
+    "a": [
+      "would",
+      "couldn’t",
+      "since",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In the lecture today, it felt like the professor was talking about, the students.",
+    "a": [
+      "to",
+      "but",
+      "an",
+      "us"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Will: Just a quick question. WhoEnglish?",
+    "a": [
+      "for",
+      "taught you",
+      "any",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Mrs. Davis: How are your studies going, Fatima? Fatima: I beg your pardon?",
+    "a": [
+      "some",
+      "and",
+      "but",
+      "were your studies going"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Susan: Mrs. Carter is the best teacher in the program.",
+    "a": [
+      "and",
+      "have you been taught by her",
+      "for",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have you been teaching by her",
+    "a": [
+      "since",
+      "Sara works as a lawyer. She only graduated three years ago, but she is a senior staff member in her company.",
+      "any",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Three years ago, Sara works as a lawyer. She only graduated, but she is a senior staff in her company.",
+    "a": [
+      "This means they have to find other ways to do business.",
+      "to",
+      "the",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Helen didn’t enjoy the fish she had last time she went out,she ordered the beef this time.",
+    "a": [
+      "some",
+      "will",
+      "since",
+      "so"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Roger has never tried eating guava in his life. ……………………….",
+    "a": [
+      "any",
+      "Neither has Alex",
+      "and",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "So hasn’t Alex",
+    "a": [
+      "would",
+      "since",
+      "company’s research well it.",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "company’s",
+    "a": [
+      "but",
+      "research",
+      "since",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In which sentence Is all PUNCTUATION correct?",
+    "a": [
+      "will",
+      "“Watch out!” the girl screamed at her sister, who was about to walk straight into a pole.",
+      "some",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "“Watch out!” the girl screamed, at her sister, who was about to walk straight into a pole?",
+    "a": [
+      "goes",
+      "the",
+      "because",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "going",
+    "a": [
+      "the",
+      "would",
+      "are made",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "made",
+    "a": [
+      "any",
+      "would",
+      "felt",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  }
+]

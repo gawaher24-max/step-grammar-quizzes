@@ -1,0 +1,518 @@
+[
+  {
+    "q": "If it rains tomorrow, Imy raincoat.",
+    "a": [
+      "but",
+      "would",
+      "so",
+      "will wear"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Now it is 10:00 PM. The trainat 11:00 pm",
+    "a": [
+      "for",
+      "will arrive",
+      "some",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If you promise to keep a secret, Iyou what happened.",
+    "a": [
+      "any",
+      "and",
+      "will tell",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which of the following sentences has the CORRECT WORD ORDER?",
+    "a": [
+      "would",
+      "the",
+      "because",
+      "He burned incense for an hour in the morning so that his house would smell nice through the rest of the day"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which of the following sentences has the CORRECT WORD ORDER?",
+    "a": [
+      "to",
+      "any",
+      "and",
+      "When did you finish your dinner?"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Did your dinner finish you when?",
+    "a": [
+      "let's go bowling",
+      "a",
+      "any",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "How about bowling?",
+    "a": [
+      "an",
+      "Ok. Maybe some other time.",
+      "to",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I am very pleased to hear this.",
+    "a": [
+      "since",
+      "I'll find it later.",
+      "to",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Don't worry about me.",
+    "a": [
+      "because",
+      "would",
+      "It was my pleasure.",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I am very sad.",
+    "a": [
+      "Why do you have to do this?",
+      "since",
+      "will",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I am very glad to hear you like it.",
+    "a": [
+      "will",
+      "but",
+      "That's a good idea.",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "In which sentence is all PUNCTUATION correct?",
+    "a": [
+      "Before Alex submitted his application, he made sure he had entered all information correctly. Even though he thought he had, he was still not certain his application was complete.",
+      "some",
+      "and",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "I don't have.cash on me. Can I pay by card?",
+    "a": [
+      "more",
+      "most",
+      "many",
+      "much"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "a few",
+    "a": [
+      "but",
+      "will",
+      "a",
+      "a few"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "a little",
+    "a": [
+      "will lend",
+      "the",
+      "since",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "lend",
+    "a": [
+      "an",
+      "any",
+      "been able to",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "been",
+    "a": [
+      "would",
+      "for",
+      "yourself",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When Adila arrived home, she found out her homeburgled. was",
+    "a": [
+      "since",
+      "had been",
+      "for",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "You are very late, Matt. Wefor you for over an hour.",
+    "a": [
+      "but",
+      "have been waiting",
+      "so",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "had waited",
+    "a": [
+      "will",
+      "broke",
+      "so",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had broken",
+    "a": [
+      "will",
+      "some",
+      "but",
+      "were just going"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have just gone",
+    "a": [
+      "would",
+      "got",
+      "an",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "getting",
+    "a": [
+      "any",
+      "the",
+      "so",
+      "having"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "we have",
+    "a": [
+      "an",
+      "does your boss normally park",
+      "but",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Steve.ping pong before. I'm sure he's going to lose.",
+    "a": [
+      "will",
+      "but",
+      "has never played",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "was never played",
+    "a": [
+      "will you be doing",
+      "to",
+      "some",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "do you do",
+    "a": [
+      "will",
+      "would",
+      "since",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "shall can",
+    "a": [
+      "any",
+      "would buy",
+      "since",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I suggested taking an earlier train to the airport tomorrow. The trainbe late, you never know.",
+    "a": [
+      "so",
+      "but",
+      "any",
+      "might"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Excuse me,bus goes to the airport, please tell me is it the 75 or the 64?",
+    "a": [
+      "which",
+      "since",
+      "so",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "where",
+    "a": [
+      "the first car was built",
+      "a",
+      "because",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "the first car built was",
+    "a": [
+      "a",
+      "weighs",
+      "an",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "weighed",
+    "a": [
+      "were having",
+      "the",
+      "some",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I've told Jack so many times to stop smoking I've given up ..............",
+    "a": [
+      "and",
+      "but",
+      "trying",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "have tried",
+    "a": [
+      "is moving",
+      "to",
+      "a",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has moved",
+    "a": [
+      "since",
+      "to wash",
+      "an",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "washing",
+    "a": [
+      "because",
+      "but",
+      "so",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "for",
+      "any",
+      "Steve Jobs, the American tech genius, is remembered as the person who made the first real smartphone, having introduced the iPhone to the world.",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "To the world, as the person who made the first real smartphone, is remembered Steve Jobs, the American tech genius, having introduced the iPhone.",
+    "a": [
+      "some",
+      "so",
+      "a",
+      "too"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "more",
+    "a": [
+      "the",
+      "would enroll",
+      "and",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had enrolled",
+    "a": [
+      "and",
+      "must go",
+      "so",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "must",
+    "a": [
+      "because",
+      "to",
+      "whom",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "which",
+    "a": [
+      "an",
+      "to",
+      "a",
+      "had/ would learn"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  }
+]

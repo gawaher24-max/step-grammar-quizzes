@@ -1,0 +1,482 @@
+[
+  {
+    "q": "The computer costs somoney that the family decided not to buy it.",
+    "a": [
+      "many",
+      "more",
+      "much",
+      "most"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which sentence is all CAPITALIZATION correct?",
+    "a": [
+      "to",
+      "so",
+      "any",
+      "Running late, he yelled, “Stop!” as he chased after the Kingdom University bus that took him to work every morning."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Running late, He yelled, “Stop!” as he chased after the Kingdom University bus that took him to work every morning.",
+    "a": [
+      "would",
+      "After eating dinner, the family used to read books while drinking tea, and then they would start getting ready for bed.",
+      "to",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "After eating dinner, and then they would start getting ready for bed, the family used to read books while drinking tea.",
+    "a": [
+      "a",
+      "to begin",
+      "and",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "that they begin",
+    "a": [
+      "would",
+      "in order to",
+      "to",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "would",
+      "felt after what have",
+      "to",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "have what after",
+    "a": [
+      "a",
+      "will",
+      "some",
+      "in"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": ".the team did not play well, they managed to win the game.",
+    "a": [
+      "a",
+      "and",
+      "some",
+      "Although"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Nora thought she arrived on time for the train,the train had already left the station.",
+    "a": [
+      "but",
+      "some",
+      "since",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "because",
+    "a": [
+      "to",
+      "several",
+      "for",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "We have taught our children thatcomes first.",
+    "a": [
+      "but",
+      "education",
+      "some",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "each education",
+    "a": [
+      "much",
+      "most",
+      "many",
+      "more"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If the company does well this year, theynew offices.",
+    "a": [
+      "will build",
+      "because",
+      "any",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If Mark has some spare clothes, hethem with poor people.",
+    "a": [
+      "shares",
+      "will",
+      "for",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had shared",
+    "a": [
+      "must",
+      "some",
+      "for",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mrs. Smith, you’re enjoying, aren’t you?",
+    "a": [
+      "would",
+      "yourself",
+      "so",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "yourselves",
+    "a": [
+      "the",
+      "because",
+      "an",
+      "whose"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "-Amy: Is Kate waiting for someone?-Kate: What did Amy ask?",
+    "a": [
+      "if you were",
+      "but",
+      "because",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Let’s firstto Will’s parents.",
+    "a": [
+      "a",
+      "and",
+      "will",
+      "talk"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Ali and Ahmed think this is the best chocolate they ………......",
+    "a": [
+      "because",
+      "the",
+      "would",
+      "have ever eaten"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "would ever have eaten",
+    "a": [
+      "because",
+      "so",
+      "had been",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Most fashionable clothingin Italy.",
+    "a": [
+      "will",
+      "a",
+      "is made",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "is making made",
+    "a": [
+      "the",
+      "any",
+      "some",
+      "to have"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When we talked to the owners, we learnt that the car ……………….",
+    "a": [
+      "had already being sold",
+      "a",
+      "any",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "If we had left immediately, a lot of time could ……..…………",
+    "a": [
+      "an",
+      "for",
+      "and",
+      "have been saved"
+    ],
+    "correct": 3,
+    "rule": "Third conditional",
+    "explain": "If + had + past participle, would have + past participle."
+  },
+  {
+    "q": "It is possible to visit the sitechildren are accompanied by their parents.",
+    "a": [
+      "an",
+      "would",
+      "as long as",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "This washing machine appears new. It ……...……..",
+    "a": [
+      "will",
+      "some",
+      "must have been replaced",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has been replacing",
+    "a": [
+      "an",
+      "so",
+      "and",
+      "not to be"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The pizzawithin half an hour.",
+    "a": [
+      "the",
+      "for",
+      "a",
+      "will be delivered"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Susan behaves as if sheeveryone, while in fact she’s only been with the company for a week.",
+    "a": [
+      "so",
+      "knew",
+      "since",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "I suggest using your car.has broken down.",
+    "a": [
+      "since",
+      "any",
+      "an",
+      "Ours"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Saudi Arabia has some wonderful places for pilgrims and tourists to visit., Makkah, Madina, Alula and Amluj.",
+    "a": [
+      "since",
+      "For example",
+      "a",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Choose the BEST WAY to make the following sentences in a paragraph:",
+    "a": [
+      "for",
+      "an",
+      "because",
+      "(3), (4), (1), (2)."
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "but",
+      "In 2012, China overtook the USA to become the biggest exporter of goods in the world.",
+      "some",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Chris learned how to play tennis when he was young,his brother can’t play at all.",
+    "a": [
+      "a",
+      "but",
+      "and",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "therefore",
+    "a": [
+      "will",
+      "since",
+      "an",
+      "visit ever you Have"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Have you been visiting Were you ever visited Have you ever visited Are you visiting",
+    "a": [
+      "but",
+      "since",
+      "an",
+      "does this word mean"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "That’s a beautiful new jacket! Whereyou buy it?",
+    "a": [
+      "some",
+      "a",
+      "did",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "The children could notout to ride their bikes because it was raining.",
+    "a": [
+      "go",
+      "but",
+      "a",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "The boxfrom recycled paper.",
+    "a": [
+      "will",
+      "but",
+      "was made",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  }
+]

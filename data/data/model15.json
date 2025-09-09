@@ -1,0 +1,470 @@
+[
+  {
+    "q": "He is married and has two children",
+    "a": [
+      "(3), (2), (1), (4)",
+      "some",
+      "would",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I don't study Biology asas I study Physics",
+    "a": [
+      "many",
+      "much",
+      "more",
+      "most"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "You needof money to buy all the books for this course.",
+    "a": [
+      "a lot",
+      "will",
+      "so",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "too much large amount",
+    "a": [
+      "would",
+      "and",
+      "for",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I've been lazy this week. I haven't read a single page in the bookSunday.",
+    "a": [
+      "since",
+      "any",
+      "the",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When I came to school this morning. I realized that classto another room.",
+    "a": [
+      "some",
+      "had been moved",
+      "an",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "is moved moved",
+    "a": [
+      "an",
+      "finish",
+      "but",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "would finish",
+    "a": [
+      "for",
+      "to",
+      "intensely",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Are you sure you left your pens in the classroom? I didn't see ....................... any",
+    "a": [
+      "will",
+      "some",
+      "will graduate",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "would graduate",
+    "a": [
+      "the quickest",
+      "since",
+      "some",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Emma couldn'ther paper last night. She was too tired.",
+    "a": [
+      "some",
+      "for",
+      "would",
+      "write"
+    ],
+    "correct": 3,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "I haven't seen Matt for a long time.he study Physics?",
+    "a": [
+      "Does",
+      "for",
+      "so",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "John: Do you knowtaught Business Administration last semester?",
+    "a": [
+      "some",
+      "an",
+      "who",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "whom which whose",
+    "a": [
+      "will",
+      "for",
+      "an",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Kate was outside the university when the lecture ………………….",
+    "a": [
+      "because",
+      "to",
+      "since",
+      "started"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had started",
+    "a": [
+      "so",
+      "some",
+      "myself",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "mine my me",
+    "a": [
+      "had to",
+      "but",
+      "would",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The graduate studentdoes our exams is quite young.",
+    "a": [
+      "for",
+      "some",
+      "but",
+      "who"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I don't know howto miss the lecture. We left the house early.",
+    "a": [
+      "an",
+      "so",
+      "since",
+      "we managed"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mr. Hill, the teacherI told you about, is here to see him now.",
+    "a": [
+      "any",
+      "would",
+      "but",
+      "whom"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Did you know that neither Mr. TaylorMr. Wilson teach English anymore?",
+    "a": [
+      "a",
+      "nor",
+      "because",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "If I had been a serious student, Ifrom university.",
+    "a": [
+      "the",
+      "some",
+      "to",
+      "would have graduated"
+    ],
+    "correct": 3,
+    "rule": "Third conditional",
+    "explain": "If + had + past participle, would have + past participle."
+  },
+  {
+    "q": "It's very important to have a teacherknows his subject",
+    "a": [
+      "and",
+      "who",
+      "but",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "The students seemthis course. They always participate actively.",
+    "a": [
+      "to enjoy",
+      "some",
+      "a",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The food science courseby several different teachers.",
+    "a": [
+      "an",
+      "some",
+      "because",
+      "has been taught"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Ifor the final exam the whole time I visited my grandparents last month.",
+    "a": [
+      "any",
+      "studied",
+      "but",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Davein the library since early this morning.",
+    "a": [
+      "a",
+      "because",
+      "since",
+      "has been reading"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "When the other students said there was too much work in the course, Chris used to encourage them to make them",
+    "a": [
+      "would",
+      "feel",
+      "since",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Choose the sentence with the RIGHT CAPITAL LETTERS.",
+    "a": [
+      "for",
+      "the",
+      "My friends and I travelled to New Zealand last August",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I haven't seen the new Toyota …………….",
+    "a": [
+      "the",
+      "yet",
+      "since",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which one of the underlined words or phrases is WRONG?",
+    "a": [
+      "couldn't the had see her",
+      "would",
+      "will",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "had see her",
+    "a": [
+      "I lived on the Farasan Islands for years.",
+      "will",
+      "for",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "On the Farasan Islands for years I lived. Years for the Farasan Islands I lived on. The Farasan Islands lived I on for years.",
+    "a": [
+      "a",
+      "so",
+      "to",
+      "because"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Choose the sentence with the RIGHT CAPITAL LETTERS. \"",
+    "a": [
+      "but",
+      "would",
+      "some",
+      "Sara is a student at King Saud University"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "will",
+      "gathering every expectation their",
+      "because",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "gathering every expectation their",
+    "a": [
+      "When living in Saudi Arabia, Sarah loved the coolness of the desert winters, but loathed the heat of the desert summers.",
+      "for",
+      "the",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When living in Saudi Arabia, sarah loved the coolness of the desert winters, but loathed the heat of the desert summers.",
+    "a": [
+      "were of them quite it. were",
+      "some",
+      "but",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "of them quite it",
+    "a": [
+      "The boy did not want to eat his lunch unless his mother let him eat while watching the football match.",
+      "a",
+      "any",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "While watching the football match, the boy did not want to eat his lunch unless his mother let him cat.",
+    "a": [
+      "although",
+      "and",
+      "any",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  }
+]

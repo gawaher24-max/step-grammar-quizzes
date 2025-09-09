@@ -1,0 +1,362 @@
+[
+  {
+    "q": "Lisa was too tired to study last night,she had a cup of tea and watched some television.",
+    "a": [
+      "some",
+      "to",
+      "and",
+      "so"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "We have almost completed the course. Onlyclasses are left.",
+    "a": [
+      "some",
+      "a few",
+      "since",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "a little",
+    "a": [
+      "a lot",
+      "some",
+      "but",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mona has almost finished reading the book. She only haspages left.",
+    "a": [
+      "because",
+      "a few",
+      "so",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "a little",
+    "a": [
+      "the",
+      "who",
+      "so",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "that he",
+    "a": [
+      "any",
+      "the",
+      "a",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "some",
+    "a": [
+      "a",
+      "would",
+      "the",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "should",
+    "a": [
+      "since",
+      "some",
+      "will talk",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "going to talk",
+    "a": [
+      "some",
+      "have been waiting",
+      "the",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Sara hasn't met her supervisora month. for",
+    "a": [
+      "since",
+      "a",
+      "for",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "from",
+    "a": [
+      "the",
+      "any",
+      "because",
+      "was studying"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "is studying",
+    "a": [
+      "would",
+      "for",
+      "will",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "since",
+    "a": [
+      "will",
+      "yourselves",
+      "a",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "ourselves",
+    "a": [
+      "since",
+      "definitely",
+      "so",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "defined",
+    "a": [
+      "had submitted",
+      "to",
+      "some",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have submitted",
+    "a": [
+      "whom",
+      "a",
+      "would",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "which",
+    "a": [
+      "would",
+      "an",
+      "have been waiting",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "are waiting",
+    "a": [
+      "would",
+      "the",
+      "since",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When the term, I will go on holiday.",
+    "a": [
+      "so",
+      "a",
+      "(D ends",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When I came to campus this morning, I saw that the old university buildinginto a sports club.",
+    "a": [
+      "had been turned",
+      "would",
+      "a",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "I'm sure you will all enjoy ………in the course Physics 101. The teacher is great.",
+    "a": [
+      "will",
+      "yourselves",
+      "for",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "ourselves",
+    "a": [
+      "has been studying",
+      "but",
+      "because",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "studied",
+    "a": [
+      "are",
+      "were",
+      "be",
+      "is"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "being",
+    "a": [
+      "for",
+      "any",
+      "has been teaching",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had been teaching",
+    "a": [
+      "a",
+      "to",
+      "an",
+      "has been reading"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "was reading",
+    "a": [
+      "and",
+      "had explained",
+      "because",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has explained",
+    "a": [
+      "so",
+      "and",
+      "any",
+      "said"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has said",
+    "a": [
+      "any",
+      "an",
+      "so",
+      "write"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "wrote",
+    "a": [
+      "the",
+      "because",
+      "any",
+      "was built"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "is built",
+    "a": [
+      "since",
+      "Ken managed to",
+      "so",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  }
+]

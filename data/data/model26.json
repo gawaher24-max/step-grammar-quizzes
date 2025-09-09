@@ -1,0 +1,482 @@
+[
+  {
+    "q": "( 2 ) Ibn Battuta was a famous traveler from Morocco .",
+    "a": [
+      "and",
+      "because",
+      "would",
+      "( D ) ( 2 ) , ( 1 ) , ( 4 ) , ( 5 ) , ( 3 )"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "You need to drinkof coffee if you're going to study all night.",
+    "a": [
+      "( B ) a lot",
+      "so",
+      "to",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "( C ) too much",
+    "a": [
+      "but",
+      "any",
+      "shouldn’t",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "There are three books in your bag,one do you want?",
+    "a": [
+      "an",
+      "( B ) Which",
+      "so",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I sawstudents but I didn't see anyone in the gym.",
+    "a": [
+      "will",
+      "so",
+      "( C ) some",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Hannahto write a good paper until her second year at university.",
+    "a": [
+      "to",
+      "but",
+      "some",
+      "( A ) wasn't able to"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "( C ) will not ( D ) can not",
+    "a": [
+      "( D ) myself",
+      "and",
+      "the",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The Professorgave the lecture is a friend of my father.",
+    "a": [
+      "an",
+      "so",
+      "( C ) who",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "( D ) what",
+    "a": [
+      "some",
+      "any",
+      "( C ) are not",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Before a test, Nora doesn't sleep asas she normally does.",
+    "a": [
+      "an",
+      "( B ) much",
+      "will",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Do you know if Eric has transferred to another university? I haven't seen himlast month",
+    "a": [
+      "and",
+      "will",
+      "( D ) since",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "The students blamedfor their bad grades.",
+    "a": [
+      "( D ) themselves",
+      "would",
+      "but",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Before going to university, I didn't know that psychologyfor more than 150 years.",
+    "a": [
+      "since",
+      "a",
+      "( A ) had been studied",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "Comparatives",
+    "explain": "وجود than يدل على صيغة المقارنة: adj+er أو more + adjective."
+  },
+  {
+    "q": "( C ) is studied ( D ) studied",
+    "a": [
+      "but",
+      "would",
+      "( A ) finish",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "( B ) finished",
+    "a": [
+      "( A ) for",
+      "and",
+      "the",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "( B ) yet",
+    "a": [
+      "so",
+      "but",
+      "to",
+      "( B ) told"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "( C ) has told ( D ) had told",
+    "a": [
+      "so",
+      "( B ) intensely",
+      "the",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Sony, I can't pay for lunch. I only haveriyals.",
+    "a": [
+      "but",
+      "a",
+      "an",
+      "( A ) a few"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Mrs. Carter,all the students liked very much, now teaches at a different university.",
+    "a": [
+      "some",
+      "since",
+      "would",
+      "( C ) whom"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Did you know that neither SaraSofia study at university? nor",
+    "a": [
+      "nor",
+      "an",
+      "but",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "either",
+    "a": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If Mrs. Taylor and Mrs. Wilsonfewer students, they would have been a lot less busy.",
+    "a": [
+      "the",
+      "will",
+      "had had",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "Second conditional",
+    "explain": "If + past simple, would + base."
+  },
+  {
+    "q": "have had",
+    "a": [
+      "an",
+      "for",
+      "would",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "should",
+    "a": [
+      "so",
+      "might",
+      "and",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "should",
+    "a": [
+      "the",
+      "so",
+      "who",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "who she she",
+    "a": [
+      "the assignment was due",
+      "so",
+      "for",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Mr. Mike asked Ben if hebetter at night or in the morning.",
+    "a": [
+      "so",
+      "studied",
+      "a",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "study",
+    "a": [
+      "a",
+      "to",
+      "had told",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has told",
+    "a": [
+      "will have taught",
+      "an",
+      "would",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "will be teach",
+    "a": [
+      "since",
+      "but",
+      "will",
+      "so that"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "in order",
+    "a": [
+      "because",
+      "would",
+      "and",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "also but",
+    "a": [
+      "would",
+      "May I have two cups of coffee and a chocolate cookie?",
+      "but",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "B: He is. ............ a colleaguea friend. We've worked together for four years now.",
+    "a": [
+      "both / and",
+      "some",
+      "so",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Choose the sentence with the RIGHT WORD ORDER.",
+    "a": [
+      "How much money do you usually have with you?",
+      "a",
+      "for",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I do not remember his name,I do remember how he looked and what she said. or and but so",
+    "a": [
+      "would",
+      "the",
+      "but",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "She is a good student. She'slearned a lot of English. yet",
+    "a": [
+      "already",
+      "some",
+      "would",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "just",
+    "a": [
+      "some",
+      "the",
+      "a",
+      "Much a lot often full"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Much",
+    "a": [
+      "where was looking would pay their",
+      "and",
+      "to",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The two girls went upstairsthey stayed there for over an hour.",
+    "a": [
+      "an",
+      "so",
+      "and",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "some",
+      "a",
+      "an",
+      "Many entrepreneurs in Europe and the US are optimistic about the year ahead, despite the economic crisis."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  }
+]

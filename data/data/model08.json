@@ -1,0 +1,278 @@
+[
+  {
+    "q": "If it rains tomorrow, Imy raincoat.",
+    "a": [
+      "will wear",
+      "for",
+      "a",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Adama book now.",
+    "a": [
+      "a",
+      "since",
+      "is reading",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When I go to King Saud University Library, I usually ………………",
+    "a": [
+      "study",
+      "some",
+      "an",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "had to buy so have to",
+      "will",
+      "any",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "to buy so",
+    "a": [
+      "Both my father and my uncle like machines a lot, but my father's interest in motor cycles is stronger than my uncle's interest in airplanes.",
+      "to",
+      "an",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "But in motor cycles my father's interest is stronger than in airplanes my uncle's interest, both my father and my uncle like machines a lot.",
+    "a": [
+      "since",
+      "a",
+      "so",
+      "Your test will be next week."
+    ],
+    "correct": 3,
+    "rule": "Comparatives",
+    "explain": "وجود than يدل على صيغة المقارنة: adj+er أو more + adjective."
+  },
+  {
+    "q": "You're test will be next week.",
+    "a": [
+      "the",
+      "After all the packages are delivered, who's going to have the most stuff?",
+      "would",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "After all, the packages are delivered, whos going to have the most stuff.",
+    "a": [
+      "the",
+      "but",
+      "a",
+      "watches about presentation her class"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "her class",
+    "a": [
+      "and",
+      "so",
+      "because",
+      "when"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I need to write this telephone number…you please pass me a pen?",
+    "a": [
+      "would",
+      "to",
+      "since",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "If you go to London, youBuckingham Palace.",
+    "a": [
+      "a",
+      "must visit",
+      "so",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "must",
+    "a": [
+      "will buy",
+      "so",
+      "will",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "would buy",
+    "a": [
+      "will win",
+      "for",
+      "the",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "had won won",
+    "a": [
+      "an",
+      "will",
+      "scored",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have scored",
+    "a": [
+      "to",
+      "was driving",
+      "but",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "76is the man talking to the teacher?",
+    "a": [
+      "so",
+      "Who",
+      "some",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "I asked her if she usuallycoffee after waking up.",
+    "a": [
+      "will",
+      "drank",
+      "to",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "drinks",
+    "a": [
+      "since",
+      "for",
+      "some",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "since",
+    "a": [
+      "for",
+      "Which",
+      "the",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "I've lost my bag. Have you seen?",
+    "a": [
+      "will",
+      "and",
+      "but",
+      "it"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The girls took part in the game very …………….",
+    "a": [
+      "some",
+      "actively",
+      "but",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "activity",
+    "a": [
+      "the student who joined last week is.",
+      "will",
+      "because",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The strawberriesby the children who picked them.",
+    "a": [
+      "the",
+      "because",
+      "were all eaten",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  }
+]

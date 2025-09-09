@@ -1,0 +1,482 @@
+[
+  {
+    "q": "Choose the sentence with the RIGHT WORD ORDER.",
+    "a": [
+      "any",
+      "since",
+      "Do you often play football?",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Hey John,took my book?",
+    "a": [
+      "because",
+      "to",
+      "who",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "which",
+    "a": [
+      "not to repeat",
+      "so",
+      "because",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "don't repeat",
+    "a": [
+      "because",
+      "graduated",
+      "would",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has graduated",
+    "a": [
+      "a",
+      "and",
+      "was writing",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mr. Ahmad: Ali, you need to submit your economics essay today. Ali: But I haven't finish it!",
+    "a": [
+      "would",
+      "and",
+      "an",
+      "yet"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "The finance course wasn't very popular. It didn't havestudents.",
+    "a": [
+      "most",
+      "many",
+      "much",
+      "more"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "much",
+    "a": [
+      "some",
+      "myself",
+      "will",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "mine my me",
+    "a": [
+      "was",
+      "are",
+      "is",
+      "were"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "may be",
+    "a": [
+      "any",
+      "a",
+      "will",
+      "for"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "since",
+    "a": [
+      "any",
+      "to",
+      "the",
+      "had to"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Mona has been sicktwo months. for",
+    "a": [
+      "for",
+      "so",
+      "some",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "since",
+    "a": [
+      "but",
+      "Which",
+      "the",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "What",
+    "a": [
+      "but",
+      "to",
+      "finishing",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I have almost completed my degree. I only havecourses left.",
+    "a": [
+      "the",
+      "a few",
+      "to",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If I have extra pens, I alwaysthem to other students.",
+    "a": [
+      "because",
+      "would",
+      "so",
+      "lend"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "lended",
+    "a": [
+      "will",
+      "an",
+      "some",
+      "will celebrate"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had celebrated",
+    "a": [
+      "and",
+      "would work out",
+      "but",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had worked out",
+    "a": [
+      "an",
+      "some",
+      "did",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If Jennythat her friend Kate was in the same course, she would have asked to borrow her books.",
+    "a": [
+      "had known",
+      "the",
+      "some",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "Second conditional",
+    "explain": "If + past simple, would + base."
+  },
+  {
+    "q": "You look tired today.all night?",
+    "a": [
+      "would",
+      "to",
+      "will",
+      "Have you been working"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "John: Did you like the physics video I sent you? Chris: Yes, I watchevery day.",
+    "a": [
+      "any",
+      "the",
+      "it",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "those",
+    "a": [
+      "had to",
+      "some",
+      "would",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mrs. Johnson,we all have missed so much, is back at the university. she her",
+    "a": [
+      "any",
+      "some",
+      "whom",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "which",
+    "a": [
+      "because",
+      "so",
+      "for",
+      "too"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "very",
+    "a": [
+      "the",
+      "would have",
+      "any",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mike triesclose to the university every day, but there are never any free spaces.",
+    "a": [
+      "the",
+      "will",
+      "some",
+      "parking"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Park",
+    "a": [
+      "would buy",
+      "for",
+      "because",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had bought",
+    "a": [
+      "for",
+      "be submitted",
+      "any",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence has the RIGHT WORD ORDER?",
+    "a": [
+      "would",
+      "to",
+      "any",
+      "I lived on the Farasan Islands for years."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Years for the Farasan Islands I lived on.",
+    "a": [
+      "You need eggs to make an omelet.",
+      "will",
+      "because",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "To make an omelet eggs you need.",
+    "a": [
+      "When will you travel to America?",
+      "any",
+      "a",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Although many more people die each year in road accidents than in plane crashes, driving isn't more dangerous.",
+    "a": [
+      "for",
+      "the",
+      "any",
+      "In fact"
+    ],
+    "correct": 3,
+    "rule": "Comparatives",
+    "explain": "وجود than يدل على صيغة المقارنة: adj+er أو more + adjective."
+  },
+  {
+    "q": "Which sentence has the CORRECT PUNCTUATION?",
+    "a": [
+      "but",
+      "Riyadh is a big city.",
+      "some",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "English class is fun?",
+    "a": [
+      "but",
+      "some",
+      "for",
+      "Khalid goes camping every weekend."
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "It is advisable to go by taxi,there are other forms of transport. but",
+    "a": [
+      "despite",
+      "so",
+      "for",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "because",
+    "a": [
+      "so",
+      "Some scientists believe that life cannot exist on the planet Mars because it lacks water and a suitable atmosphere.",
+      "and",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "since",
+      "would",
+      "the",
+      "More people are trying to learn English than any other language in the world."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "English more other than any language in the world people trying to learn in.",
+    "a": [
+      "would",
+      "Abdullah's boss noticed he was a hard worker, so he decided to promote him to a managerial position for the new calendar year.",
+      "to",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "Comparatives",
+    "explain": "وجود than يدل على صيغة المقارنة: adj+er أو more + adjective."
+  },
+  {
+    "q": "For the new calendar year, Abdullah's boss noticed he was a hard worker, so he decided to promote him to a managerial position.",
+    "a": [
+      "the",
+      "an",
+      "don't whether studies abroad.",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  }
+]

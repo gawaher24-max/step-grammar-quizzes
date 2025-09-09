@@ -1,0 +1,494 @@
+[
+  {
+    "q": "My sister's name is Anna.is eight years old.",
+    "a": [
+      "for",
+      "but",
+      "She",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Russia isthan Canada.",
+    "a": [
+      "because",
+      "bigger",
+      "the",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "Comparatives",
+    "explain": "وجود than يدل على صيغة المقارنة: adj+er أو more + adjective."
+  },
+  {
+    "q": "the bigger biggest",
+    "a": [
+      "to having",
+      "get",
+      "to get",
+      "to make"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to getting",
+    "a": [
+      "some",
+      "for",
+      "an",
+      "to spend"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "be spending",
+    "a": [
+      "much",
+      "many",
+      "most",
+      "more"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Go outside andthe gardener some water. He needs a break.",
+    "a": [
+      "to",
+      "some",
+      "any",
+      "bring"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to bring bringing will bring",
+    "a": [
+      "so",
+      "Running late, he yelled, \"Stop!\" as he chased after the Kingdom University bus that took him to work every morning.",
+      "to",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In which sentence is all CAPITALIZATION correct?",
+    "a": [
+      "for",
+      "but",
+      "Among John's favorite places to travel were Malaysia, Morocco, and any exotic location with a nice, clean beach.",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "And then they would start getting ready for bed, after eating dinner, the family used to read books while drinking tea.",
+      "After eating dinner, the family used to read books while drinking tea, and then they would start getting ready for bed.",
+      "After eating dinner, and then they would start getting ready for bed, the family used to read books while drinking tea.",
+      "The family used to read books while drinking tea, and then they would start getting ready, after eating dinner, for bed."
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "-May I speak to Mr. Ben please?",
+    "a": [
+      "since",
+      "because",
+      "an",
+      "is running"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "has run",
+    "a": [
+      "to begin",
+      "the",
+      "but",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "that they begin",
+    "a": [
+      "will",
+      "so",
+      "some",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "At tomorrow's event, a large sum of moneyby an anonymous supporter.",
+    "a": [
+      "will",
+      "would",
+      "will be donated",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "large box of datesfrom my uncle.",
+    "a": [
+      "for",
+      "the",
+      "since",
+      "has just arrived"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Bobon holiday last year.",
+    "a": [
+      "any",
+      "a",
+      "some",
+      "didn't go"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "some",
+      "Adam had obviously fallen asleep while sitting on the couch, but when asked about it later, he claimed he was simply meditating.",
+      "and",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Adam had obviously fallen asleep while sitting on the couch, he claimed he was simply meditating, but when asked about it later.",
+    "a": [
+      "so",
+      "to",
+      "some",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "because while",
+    "a": [
+      "since",
+      "[1]",
+      "some",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "Invented by Thomas Edison, was the electric light bulb, one of the many commercially successful products, an essential element of our modern lives.",
+      "One of the many commercially successful products, an essential element of our modern lives was invented by Thomas Edison, the electric light bulb.",
+      "The electric light bulb, an essential element of our modern lives, was one of the many commercially successful products invented by Thomas Edison.",
+      "An essential element of our modern lives, one of the many commercially successful products, was invented the electric light bulb by Thomas Edison."
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which one of the underlined words or phrases in the following is INCORRECT? Did you know that the tree over there might actually been hundreds of years old?",
+    "a": [
+      "are",
+      "were",
+      "was",
+      "been"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which sentence as the CORRECT WORD ORDER?",
+    "a": [
+      "Catching ants that were crawling around inside the house, the boys spent the whole afternoon and putting them outside in the garden.",
+      "The boys spent the whole afternoon catching ants that were crawling around inside the house and putting them outside in the garden.",
+      "Catching ants that were crawling around inside the house and putting them outside in the garden, the boys spent the whole afternoon.",
+      "The boys spent the whole afternoon and putting them outside in the garden, catching ants that were crawling around inside the house."
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "some",
+      "so",
+      "the",
+      "to play ago has yet."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "ago has yet",
+    "a": [
+      "for",
+      "any",
+      "to",
+      "to helping the goals hopes finishes"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to helping the goals hopes finishes",
+    "a": [
+      "are",
+      "was",
+      "is",
+      "be"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "can be could be",
+    "a": [
+      "get",
+      "an",
+      "but",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "am getting will get",
+    "a": [
+      "the",
+      "but",
+      "does this word mean.",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "D means this word.",
+    "a": [
+      "because",
+      "for",
+      "so",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "A: The maintenance man was here today.",
+    "a": [
+      "the",
+      "Did",
+      "any",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In England, many childrenwear school uniforms; they can't come to school if",
+    "a": [
+      "the",
+      "for",
+      "since",
+      "have to"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "That's a beautiful new jacket! Whereyou buy it?",
+    "a": [
+      "but",
+      "would",
+      "did",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "All of your travel plans have been made. When you arrive, someonefor you at the airport.",
+    "a": [
+      "will",
+      "but",
+      "so",
+      "will be waiting"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "The children could notout to ride their bikes because it was raining.",
+    "a": [
+      "go",
+      "an",
+      "because",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "They went to bed as soon as their guestsleft.",
+    "a": [
+      "any",
+      "a",
+      "some",
+      "had"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Does Chris have to go home now? Let hima while longer.",
+    "a": [
+      "an",
+      "since",
+      "stay",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Tom cannot remember .................. where are kept the files",
+    "a": [
+      "so",
+      "the",
+      "some",
+      "where the files are kept"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Dairy products shouldto keep them fresh.",
+    "a": [
+      "and",
+      "to",
+      "be refrigerated",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "the boxfrom recycled paper.",
+    "a": [
+      "will",
+      "was made",
+      "since",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "make",
+    "a": [
+      "since",
+      "had been / would have",
+      "so",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "After hethe door, he discovered that his keys were not in his pocket.",
+    "a": [
+      "to",
+      "for",
+      "since",
+      "had closed"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "The postman had already delivered the mail by the time Ifor work this morning.",
+    "a": [
+      "since",
+      "some",
+      "and",
+      "left"
+    ],
+    "correct": 3,
+    "rule": "Past perfect vs. past simple",
+    "explain": "by the time + past simple مع ماضٍ تام للحدث الأسبق."
+  },
+  {
+    "q": "To which sentence below can we add the following clause?",
+    "a": [
+      "would",
+      "You bet",
+      "a",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  }
+]

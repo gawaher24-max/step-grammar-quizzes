@@ -1,0 +1,506 @@
+[
+  {
+    "q": "Sara: Help! I lost my key and can't get into my house!",
+    "a": [
+      "the",
+      "but",
+      "will",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "should",
+    "a": [
+      "should",
+      "because",
+      "and",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "might",
+    "a": [
+      "a",
+      "some of them are Arabs but the rest are from the Far East",
+      "and",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "all of them are from Bahrain",
+    "a": [
+      "since",
+      "to",
+      "your",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "yours",
+    "a": [
+      "any",
+      "and",
+      "running",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The weather…warm these days.",
+    "a": [
+      "will",
+      "to",
+      "is getting",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "was getting",
+    "a": [
+      "will",
+      "the",
+      "any",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have",
+    "a": [
+      "he to me graduated high school",
+      "would",
+      "some",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "graduated",
+    "a": [
+      "because",
+      "since",
+      "will",
+      "will be relaxing"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The weather…September was very warm this year. in",
+    "a": [
+      "in",
+      "would",
+      "a",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "with at to",
+    "a": [
+      "the",
+      "is trying",
+      "will",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Essam flew to Riyadh from Jeddah and then he…………….",
+    "a": [
+      "some",
+      "and",
+      "the",
+      "took a taxi to my house to surprise me"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "My friend was sick, so I had to go to the party………….",
+    "a": [
+      "the",
+      "any",
+      "by myself",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "for myself",
+    "a": [
+      "because",
+      "himself",
+      "and",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "itself",
+    "a": [
+      "and we arrived just in time for the second half",
+      "will",
+      "and",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "and we for the second half just arrived in time",
+    "a": [
+      "some",
+      "Today to review discuss last",
+      "will",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Today",
+    "a": [
+      "because",
+      "for",
+      "so",
+      "discuss"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "last",
+    "a": [
+      "for",
+      "He arrived on Monday, September 3.",
+      "so",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which phrase correctly replaces the INCORRECT underlined phrase? Walk along the road. I saw something strange in the nearby forest.",
+    "a": [
+      "Walking along the road",
+      "any",
+      "an",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "To which sentence can we add the following clause?until it boils.",
+    "a": [
+      "the",
+      "(2)",
+      "and",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Jack was preparing the hamburgersJohn was lighting the barbeque fire.",
+    "a": [
+      "to",
+      "will",
+      "while",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "until",
+    "a": [
+      "the",
+      "some",
+      "after",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "until",
+    "a": [
+      "since",
+      "mine",
+      "but",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Please do not touch…that I put on the table as I want to take it to my class party.",
+    "a": [
+      "but",
+      "the cake",
+      "will",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "since",
+      "so",
+      "look after doesn't childs their",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "look after",
+    "a": [
+      "to",
+      "an",
+      "a",
+      "childs"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "their",
+    "a": [
+      "to go",
+      "to having",
+      "getting",
+      "to make"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "going",
+    "a": [
+      "any",
+      "Although Chinese, Korean, Japanese and other East Asians are very distinct, many people seem unable to tell them apart.",
+      "will",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Although chinese, korean, japanese and other east asians are very distinct, many people seem unable to tell them apart.",
+    "a": [
+      "which",
+      "to",
+      "some",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "what",
+    "a": [
+      "for",
+      "some",
+      "because",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "An earthquake happened while Iin my office.",
+    "a": [
+      "a",
+      "and",
+      "was working",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I usually ………before bedtime.",
+    "a": [
+      "read",
+      "will",
+      "but",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to read",
+    "a": [
+      "but",
+      "an",
+      "eat",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mona and Iup at my house tomorrow.",
+    "a": [
+      "will",
+      "are going to meet",
+      "any",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "be meeting",
+    "a": [
+      "some",
+      "because",
+      "a",
+      "excited"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "exciting",
+    "a": [
+      "because",
+      "the",
+      "some",
+      "playing"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "will play",
+    "a": [
+      "so",
+      "but",
+      "the",
+      "Spoke"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Paul is a bad roommate. While I clean the apartment on the weekends, he just…videogames.",
+    "a": [
+      "but",
+      "to",
+      "since",
+      "plays"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "His breathing problemsby smoking.",
+    "a": [
+      "but",
+      "were caused",
+      "any",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "are causing",
+    "a": [
+      "an",
+      "the",
+      "would",
+      "was kicked"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "My friend got a good job after……… from university last year.",
+    "a": [
+      "graduating",
+      "a",
+      "to",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to graduate",
+    "a": [
+      "be",
+      "were",
+      "is",
+      "was"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "q": "In which sentence is all CAPITALIZATION correct?",
+    "a": [
+      "an",
+      "I heard that Mr. Davis is traveling to Japan next Friday .",
+      "and",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which sentence is all PUNCTUATION correct?",
+    "a": [
+      "Instead of taking the elevator to the top; I decided to take the stairs.",
+      "because",
+      "so",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Instead of taking the elevator to the top I decided to take the stairs.",
+    "a": [
+      "at",
+      "the",
+      "since",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "You areteacher I’ve ever had.",
+    "a": [
+      "will",
+      "a",
+      "the best",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "better than",
+    "a": [
+      "since",
+      "to",
+      "will",
+      "like"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "good",
+    "a": [
+      "will",
+      "any",
+      "D. Mine",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I've beenUniversity since six o'clock in the morning.",
+    "a": [
+      "for",
+      "would",
+      "at",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Will: Do you want me to fix the window?Ben: No, I’ll do it…………………",
+    "a": [
+      "since",
+      "the",
+      "will",
+      "myself"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "BeforeTo bed every night, remember to brush your teeth. go",
+    "a": [
+      "since",
+      "going",
+      "any",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "gone",
+    "a": [
+      "would",
+      "because",
+      "is doing",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "was doing",
+    "a": [
+      "some",
+      "a",
+      "will",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "many C. a",
+    "a": [
+      "When",
+      "would",
+      "will",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Already",
+    "a": [
+      "a",
+      "because",
+      "Everybody .",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Everybody of us .",
+    "a": [
+      "but",
+      "some",
+      "The Jupiter and Mars exhibits at the London Planetarium are fascinating.",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If youme, I can solve the math problem.",
+    "a": [
+      "teach .",
+      "any",
+      "and",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have taught .",
+    "a": [
+      "since",
+      "an",
+      "a",
+      "B.I used to be"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "C. I’m used to",
+    "a": [
+      "to",
+      "worse",
+      "the",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Jack is not a hard-working student.he always gets excellent grades.",
+    "a": [
+      "but",
+      "because",
+      "However",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In which sentence is all CAPITALIZATION correct?",
+    "a": [
+      "a",
+      "and",
+      "Mrs. Nora always began her English lesson by asking the students, “How are all of you this Monday morning?\"",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Mrs. Nora always began her English Lesson by asking the student, “how are all of You This Monday morning?\"",
+    "a": [
+      "will",
+      "would",
+      "since",
+      "arrive"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "arrived",
+    "a": [
+      "an",
+      "had already closed",
+      "the",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have already closed",
+    "a": [
+      "because",
+      "D. To read",
+      "but",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "a",
+      "I tried to explain why I borrowed the umbrella",
+      "and",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "I tried to explain why the umbrella I borrowed",
+    "a": [
+      "too",
+      "will",
+      "some",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Choose the CORRECT ORDER to make the following sentences into paragraph:",
+    "a": [
+      "(4), (3), (1), (2)",
+      "would",
+      "because",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "My vacation beginsJune 22. on for at at",
+    "a": [
+      "since",
+      "so",
+      "and",
+      "on"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "If you want to see your writing grades, come by ray office tomorrow morning. I…your essays by then.",
+    "a": [
+      "a",
+      "will have marked",
+      "will",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I…for the exam last night.",
+    "a": [
+      "studied",
+      "because",
+      "and",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "The chocolate cakebefore my father came home. at",
+    "a": [
+      "and",
+      "any",
+      "but",
+      "was eaten"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "It normally takes me…minutes to shave, but today I’m taking my time.",
+    "a": [
+      "because",
+      "a few",
+      "since",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "lot of",
+    "a": [
+      "a",
+      "who",
+      "because",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "where",
+    "a": [
+      "an",
+      "the",
+      "a",
+      "Have been looking."
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Am looking.",
+    "a": [
+      "but",
+      "have lost",
+      "will",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "am losing",
+    "a": [
+      "would",
+      "any",
+      "Peru is rated among the top three nations likely to be most affected by climate change in the world.",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Climate change in the world is most likely to be affected by Peru rated among the top three nations",
+    "a": [
+      "because",
+      "much except who handling",
+      "but",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "Passive voice",
+    "explain": "Be (tense) + past participle."
+  },
+  {
+    "q": "handling",
+    "a": [
+      "and",
+      "a",
+      "for",
+      "might reduce"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "One of her paintings reminded her mother of the busy activity of a city.",
+    "a": [
+      "for",
+      "since",
+      "but",
+      "(5), (3), (2), (1), (4)"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mark likes the book I gave him so much, heit three times.",
+    "a": [
+      "for",
+      "a",
+      "has read",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "is reading",
+    "a": [
+      "to",
+      "since",
+      "had had",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have had",
+    "a": [
+      "because",
+      "a",
+      "and",
+      "have you seen"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "q": "If it rains tomorrow, Imy raincoat.",
+    "a": [
+      "will wear",
+      "but",
+      "a",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Now it is 10:00 PM. The trainat 11:00 pm",
+    "a": [
+      "for",
+      "but",
+      "will arrive",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If you promise to keep a secret, Iyou what happened.",
+    "a": [
+      "the",
+      "to",
+      "will tell",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which of the following sentences has the CORRECT WORD ORDER?",
+    "a": [
+      "the",
+      "because",
+      "He burned incense for an hour in the morning so that his house would smell nice through the rest of the day",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "she to me graduated middle school.",
+      "will",
+      "the",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "graduated",
+    "a": [
+      "the",
+      "since",
+      "took an Uber to my office to surprise me",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The basketball game started at 6 o'clock, ……………….",
+    "a": [
+      "but",
+      "and we arrived just in time for the second quarter",
+      "would",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "the",
+      "would",
+      "an",
+      "Tomorrow to review discuss last"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Tomorrow",
+    "a": [
+      "so",
+      "will",
+      "since",
+      "discuss"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Last",
+    "a": [
+      "for",
+      "will",
+      "She came here on Sunday, August 14.",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Alex,you please help me with my homework?",
+    "a": [
+      "a",
+      "would",
+      "the",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "should",
+    "a": [
+      "some",
+      "but",
+      "must stop",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "must",
+    "a": [
+      "will",
+      "a",
+      "will buy",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "would buy",
+    "a": [
+      "but",
+      "some",
+      "an",
+      "will take"
+    ],
+    "correct": 3,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "had taken",
+    "a": [
+      "but",
+      "the",
+      "went",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has gone",
+    "a": [
+      "will",
+      "was shopping",
+      "any",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Okay everyone,can tell me about the water cycle?",
+    "a": [
+      "for",
+      "so",
+      "and",
+      "who"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "which",
+    "a": [
+      "some",
+      "the",
+      "so",
+      "visited"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "visit",
+    "a": [
+      "since",
+      "for",
+      "to",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "from",
+    "a": [
+      "which",
+      "since",
+      "for",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "what",
+    "a": [
+      "and",
+      "any",
+      "it",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "those",
+    "a": [
+      "a",
+      "since",
+      "some",
+      "angrily"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "anger",
+    "a": [
+      "for",
+      "so",
+      "would",
+      "cleverer"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "clever",
+    "a": [
+      "for",
+      "the",
+      "since",
+      "a few"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I am happy to make herthe test again.",
+    "a": [
+      "the",
+      "but",
+      "so",
+      "take"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "You should buy travel insurance beforeto another country.",
+    "a": [
+      "and",
+      "would",
+      "to",
+      "flying"
+    ],
+    "correct": 3,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "you flying",
+    "a": [
+      "were",
+      "was",
+      "be",
+      "are"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "being",
+    "a": [
+      "would",
+      "some",
+      "might",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "should",
+    "a": [
+      "any",
+      "so",
+      "the",
+      "who"
+    ],
+    "correct": 3,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "who she she",
+    "a": [
+      "for",
+      "the",
+      "will",
+      "the nearest pharmacy is"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "One of my new colleagues said heme how to use the program later.",
+    "a": [
+      "would",
+      "would show",
+      "will",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "If theywith a guarantee, they would be able to get it fixed now.",
+    "a": [
+      "purchased",
+      "since",
+      "but",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "Second conditional",
+    "explain": "If + past simple, would + base."
+  },
+  {
+    "q": "will purchase",
+    "a": [
+      "but",
+      "any",
+      "some",
+      "Walk through the park"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "To which sentence can we add the following clause?until it boils.",
+    "a": [
+      "and",
+      "the",
+      "so",
+      "(2)"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Peter was preparing the hot dogsPaul was lighting the barbeque fire.",
+    "a": [
+      "will",
+      "because",
+      "would",
+      "while"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "until",
+    "a": [
+      "after",
+      "will",
+      "a",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "until",
+    "a": [
+      "for",
+      "childs their look after don't",
+      "and",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "look after",
+    "a": [
+      "for",
+      "but",
+      "the",
+      "would enroll"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had enrolled",
+    "a": [
+      "so",
+      "a",
+      "must go",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "must",
+    "a": [
+      "will",
+      "because",
+      "whom",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "which",
+    "a": [
+      "had / would learn",
+      "for",
+      "any",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  }
+]

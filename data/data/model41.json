@@ -1,0 +1,482 @@
+[
+  {
+    "q": "If it rains tomorrow, Imy raincoat.",
+    "a": [
+      "will wear",
+      "will",
+      "for",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "going to wear",
+    "a": [
+      "some",
+      "will",
+      "would",
+      "is reading"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "When I go to King Saud University Library, I usually ...............",
+    "a": [
+      "study",
+      "but",
+      "any",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "had to buy so have to",
+      "so",
+      "a",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "to buy so",
+    "a": [
+      "since",
+      "Both Apple and Microsoft make great products, but the iPhone from Apple is better than the Windows Phone from Microsoft.",
+      "some",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence is correct?",
+    "a": [
+      "but",
+      "an",
+      "Your vehicle inspection will be on Thursday next week.",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which of the following sentences is all PUNCTUATION correct?",
+    "a": [
+      "any",
+      "an",
+      "After all the samples are tested, who's going to get the new contract?",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "After all, the samples are tested, whos going to get the new contract.",
+    "a": [
+      "writes about them his teacher",
+      "will",
+      "so",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "writes",
+    "a": [
+      "to",
+      "when",
+      "since",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "during",
+    "a": [
+      "but",
+      "a",
+      "would",
+      "wrote"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has written",
+    "a": [
+      "some",
+      "so",
+      "a",
+      "have been looking"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had looked",
+    "a": [
+      "to",
+      "for",
+      "disruptively",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "disruption",
+    "a": [
+      "would",
+      "so",
+      "some",
+      "who"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "which",
+    "a": [
+      "to",
+      "would",
+      "goes",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Sameh crashed his car when heat his phone.",
+    "a": [
+      "looked",
+      "to",
+      "because",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have looked",
+    "a": [
+      "but",
+      "themselves",
+      "will",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The meat is so soft, I cooked it4 hours. for",
+    "a": [
+      "for",
+      "so",
+      "to",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "from",
+    "a": [
+      "will",
+      "had been eaten",
+      "an",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "being eaten",
+    "a": [
+      "any",
+      "some",
+      "would",
+      "Which"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Whose",
+    "a": [
+      "any",
+      "an",
+      "but",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "a lot",
+    "a": [
+      "so",
+      "since",
+      "the",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I burned my hand while Imy dinner.",
+    "a": [
+      "for",
+      "the",
+      "so",
+      "was cooking"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Let me know when youyour meal and I will bring you coffee.",
+    "a": [
+      "finish",
+      "will",
+      "and",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "finishes",
+    "a": [
+      "will",
+      "to",
+      "the richest people in the city live.",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "the father suggested to his daughter that heher a nice present for her birthday.",
+    "a": [
+      "would give",
+      "any",
+      "to",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "If Aliearly enough, we would have seen the amazing sunrise this morning.",
+    "a": [
+      "had woken up",
+      "because",
+      "an",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "Second conditional",
+    "explain": "If + past simple, would + base."
+  },
+  {
+    "q": "would wake up",
+    "a": [
+      "Whom",
+      "would",
+      "any",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Which",
+    "a": [
+      "for",
+      "since",
+      "nor",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "also",
+    "a": [
+      "and",
+      "since",
+      "might",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "should",
+    "a": [
+      "had reached",
+      "but",
+      "any",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Jood set a goal ofMount Everest before she became 30 years old.",
+    "a": [
+      "an",
+      "some",
+      "any",
+      "climbing"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to climb",
+    "a": [
+      "an",
+      "would",
+      "a",
+      "Yesterday, she bought four books to prepare for her teaching job at Paris University."
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Yesterday, She bought four books to prepare for her teaching job at Paris University.",
+    "a": [
+      "so",
+      "some",
+      "a",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER",
+    "a": [
+      "My friend said he would travel to China, after he has finished his current project at work and has time to take a holiday.",
+      "an",
+      "so",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "My friend said he would like to travel to China, and has time to take a holiday after he has finished his current project at work.",
+    "a": [
+      "and",
+      "for",
+      "read their After starting",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "read",
+    "a": [
+      "a",
+      "to",
+      "and",
+      "At first, my brother, Ahmed, wanted to study chemistry at Prince Mohamed University, but one of his friends Mr. Adam, persuaded him to study English instead after he finishes his second semester in July."
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "At first, my brother, ahmed, wanted to study chemistry at Prince mohamed University, but one of his Friends Mr. Adam, persuaded him to study English instead after he f inishes his second semester in July.",
+    "a": [
+      "much",
+      "most",
+      "more",
+      "many"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "plenty",
+    "a": [
+      "asked",
+      "for",
+      "so",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "asking",
+    "a": [
+      "for",
+      "were all eaten",
+      "and",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "were all eating",
+    "a": [
+      "and",
+      "since",
+      "an",
+      "whom"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  }
+]
