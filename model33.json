@@ -1,0 +1,494 @@
+[
+  {
+    "q": "If it rains tomorrow, Imy raincoat.",
+    "a": [
+      "and",
+      "will wear",
+      "some",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Now it is 10:00 PM. The trainat 11:00 pm",
+    "a": [
+      "will",
+      "a",
+      "will arrive",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If you promise to keep a secret, Iyou what happened.",
+    "a": [
+      "will tell",
+      "but",
+      "an",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which of the following sentences has the CORRECT WORD ORDER?",
+    "a": [
+      "any",
+      "the",
+      "He burned incense for an hour in the morning so that his house would smell nice through the rest of the day.",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "I want to buy a carget a job as a driver.",
+    "a": [
+      "for",
+      "because",
+      "in order to",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INNCORRECT?",
+    "a": [
+      "because",
+      "to",
+      "forgot have when came",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "have when came",
+    "a": [
+      "the",
+      "a",
+      "in",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "-Mr. Carter was actually quite sick; he came to the office this morning.",
+    "a": [
+      "to",
+      "but",
+      "Although",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "England played a very good game,Brazil was able to win the match.",
+    "a": [
+      "an",
+      "any",
+      "because",
+      "but"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "because",
+    "a": [
+      "as tall as",
+      "an",
+      "will",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "It’s importantChildren how to behave from a very young age.",
+    "a": [
+      "would",
+      "and",
+      "will",
+      "to teach"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Matt has to get upthan before because of his new job.",
+    "a": [
+      "an",
+      "earlier",
+      "and",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Comparatives",
+    "explain": "وجود than يدل على صيغة المقارنة: adj+er أو more + adjective."
+  },
+  {
+    "q": "the earliest more earlier",
+    "a": [
+      "so",
+      "but",
+      "because",
+      "already"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Ali’s father,supported Ali financially throughout his life, suddenly died yesterday.",
+    "a": [
+      "who",
+      "a",
+      "some",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Matt failed the course because he had not donehomework.",
+    "a": [
+      "any",
+      "and",
+      "some",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I will go to the gym tomorrow morning if I ……… early enough.",
+    "a": [
+      "would",
+      "because",
+      "get up",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "got up",
+    "a": [
+      "is",
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had been",
+    "a": [
+      "have come",
+      "a",
+      "and",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Erichalf an hour in the shower.",
+    "a": [
+      "wouldn’t have missed his plane if he hadn’t spent",
+      "would",
+      "to",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Adam: I thought you hated sport.",
+    "a": [
+      "some",
+      "to",
+      "used to hate",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "am used to hating used to hating",
+    "a": [
+      "because",
+      "but",
+      "some",
+      "would"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Since it’s raining outside,you like to stay in and watch a movie?",
+    "a": [
+      "and",
+      "would",
+      "since",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "I don’t think you should ……… a large meal just before you go to bed",
+    "a": [
+      "the",
+      "for",
+      "a",
+      "eat"
+    ],
+    "correct": 3,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Linda has some bad news for us, and she wants us to hearnow",
+    "a": [
+      "for",
+      "and",
+      "it",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Is this the ringyou found on the beach last night?",
+    "a": [
+      "for",
+      "but",
+      "that",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "-Linda have two children or three?",
+    "a": [
+      "will",
+      "Does",
+      "to",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I still don’t understand whyto marry jake",
+    "a": [
+      "would",
+      "any",
+      "and",
+      "Mia decided"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Are you leaving now? I thought you said yougoing to stay till tomorrow.",
+    "a": [
+      "are",
+      "were",
+      "is",
+      "was"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "have been",
+    "a": [
+      "was invented",
+      "an",
+      "but",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "is invented invents",
+    "a": [
+      "since",
+      "themselves",
+      "any",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Steveto Saudi Arabia before. This is his first visit.",
+    "a": [
+      "the",
+      "a",
+      "has never been",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Many different types of food are available in Riyadh, you can eat food from the U.S., Japan, France, and",
+    "a": [
+      "For example",
+      "for",
+      "a",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Choose the best way to make the following sentences into a paragraph:",
+    "a": [
+      "(3), (2), (4), (1).",
+      "but",
+      "since",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "In the 1850s, the British government opened the first public library, called The Royal Museum.",
+      "and",
+      "to",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "The Royal Museum opened the British government called the first public library, in the 1850s Opened the British government called the Royal Museum the first public library, in the 1850s.",
+    "a": [
+      "but",
+      "for",
+      "so",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "therefore",
+    "a": [
+      "person repair a be you Have",
+      "any",
+      "because",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Have you been repairing a car Were you ever repaired a car",
+    "a": [
+      "Have you ever repaired a car",
+      "will",
+      "because",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Are you repairing a car",
+    "a": [
+      "would enroll",
+      "some",
+      "since",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "is going to enroll",
+    "a": [
+      "because",
+      "the",
+      "since",
+      "must go"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Mr. Amir,the students call Uncle Amir, taught the boys physical education several times a week.",
+    "a": [
+      "but",
+      "to",
+      "whom",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If I ………….. more time, Imore languages.",
+    "a": [
+      "some",
+      "any",
+      "but",
+      "had / would learn"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  }
+]

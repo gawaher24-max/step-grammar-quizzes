@@ -1,0 +1,530 @@
+[
+  {
+    "q": "Paul works ..................",
+    "a": [
+      "to",
+      "carefully",
+      "since",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "more careful",
+    "a": [
+      "the",
+      "some",
+      "to",
+      "Ali’s"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Ali’z",
+    "a": [
+      "When did you finish your homework?",
+      "for",
+      "and",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Did your homework finish you when?",
+    "a": [
+      "a",
+      "long",
+      "because",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "At our local market, it is possible to buythings, but people usually go there when they want to buy gold.",
+    "a": [
+      "most",
+      "many",
+      "more",
+      "much"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "a lot no",
+    "a": [
+      "some",
+      "to",
+      "so",
+      "arrived"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "are arriving",
+    "a": [
+      "an official",
+      "because",
+      "but",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When I was 25 years old, Ilift 30 kilograms with one hand.",
+    "a": [
+      "could",
+      "and",
+      "since",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Egyptians and Qatarisspeak Arabic. any two",
+    "a": [
+      "for",
+      "both",
+      "since",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "each",
+    "a": [
+      "a",
+      "for",
+      "himself",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Excuse me, can youme the way to the police office?",
+    "a": [
+      "because",
+      "an",
+      "would",
+      "show"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Would you take out the garbage when you leaveparty today? for",
+    "a": [
+      "and",
+      "for the",
+      "because",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "The second half has already begun, so the game………in about 45 minutes",
+    "a": [
+      "will finish",
+      "will",
+      "since",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has been finished",
+    "a": [
+      "because",
+      "some",
+      "a",
+      "has been written"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Yesterday, all passengers…free meal because of the flight delay.",
+    "a": [
+      "for",
+      "a",
+      "received",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "receiving",
+    "a": [
+      "would",
+      "to",
+      "Must replace",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Ought replace",
+    "a": [
+      "and",
+      "anywhere",
+      "some",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "everywhere",
+    "a": [
+      "a",
+      "to",
+      "and",
+      "Let’s go swimming."
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "You tell we why?",
+    "a": [
+      "some",
+      "OK, maybe some other time.",
+      "the",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which phrase correctly replaces the INCORRECT underlined phrase? Mr. Brown: Thank you very much. You have been of great help.",
+    "a": [
+      "since",
+      "I’ll tell you later.",
+      "some",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Please take another.",
+    "a": [
+      "It was my pleasure.",
+      "would",
+      "for",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I am very sorry.",
+    "a": [
+      "any",
+      "is moving",
+      "would",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has moved",
+    "a": [
+      "will",
+      "to",
+      "for",
+      "visit"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "visits",
+    "a": [
+      "and",
+      "to dry",
+      "for",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "drying",
+    "a": [
+      "some",
+      "a",
+      "Why do you have to do that?",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I very glad to hear that.",
+    "a": [
+      "since",
+      "the",
+      "That’s a good idea.",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "so",
+      "claim get spread are that after using.",
+      "for",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "claim",
+    "a": [
+      "so",
+      "but",
+      "are that",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "after using",
+    "a": [
+      "and",
+      "for",
+      "Yuri Gagarin, the Russian cosmonaut, is remembered as the first human to fly into outer space, having spent one hour and forty-eight minutes in a complete orbit around the earth.",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Around the earth, as the first human to fly into outer space, is remembered Yuri Gagarin, the Russian cosmonaut, having spent one hour and forty-eight minutes in a complete orbit.",
+    "a": [
+      "because",
+      "any",
+      "too",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Now, you can remove the teabag and drink it.",
+    "a": [
+      "so",
+      "(4), (3), (1), (2)",
+      "some",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "To which sentence can we ADD THE FOLLOWING PHRASE?",
+    "a": [
+      "because",
+      "since",
+      "will",
+      "A) 1"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Our bossimportant people every Tuesday.",
+    "a": [
+      "meets",
+      "would",
+      "so",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which of the following sentences has the CORRECT WORD ORDER?",
+    "a": [
+      "will",
+      "Peru is rated among the top three nations likely to be most affected by climate change in the world.",
+      "the",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Climate change in the world is most likely to be affected by Peru rated among the top three nations.",
+    "a": [
+      "to",
+      "Maryam was tired of walking around all day at the mall; however, when she saw the sale sign at her favorite store, she immediately felt energized.",
+      "and",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "Passive voice",
+    "explain": "Be (tense) + past participle."
+  },
+  {
+    "q": "Maryam was tired of walking around all day at the mall; however, when she saw the sale sign at her favorite store she immediately felt energized.",
+    "a": [
+      "for",
+      "to",
+      "and",
+      "does it take"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "does it takes",
+    "a": [
+      "because",
+      "would have heard",
+      "for",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "could hear",
+    "a": [
+      "a",
+      "whose",
+      "some",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "The manby a dog when he climbed over a wall and reached safely.",
+    "a": [
+      "some",
+      "was being chased",
+      "since",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have been chased",
+    "a": [
+      "studies",
+      "because",
+      "some",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "studied",
+    "a": [
+      "any",
+      "some",
+      "its",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "when Chris was living in Riyadh, hearound the neighborhood every evening dinner.",
+    "a": [
+      "and",
+      "used to jog",
+      "to",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "is jogging",
+    "a": [
+      "calmly",
+      "because",
+      "an",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "calmed",
+    "a": [
+      "since",
+      "That",
+      "the",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  }
+]

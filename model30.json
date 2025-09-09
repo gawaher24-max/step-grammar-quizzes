@@ -1,0 +1,482 @@
+[
+  {
+    "q": "Go outside andthe gardener some water. He needs a break.",
+    "a": [
+      "bring.",
+      "will",
+      "any",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to bring. bringing. will bring.",
+    "a": [
+      "will",
+      "an",
+      "Among John's favorite places to travel were Malaysia, Morocco, and any exotic location with a nice, clean beach",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "George: may I speak to Mr. Ben?",
+    "a": [
+      "a",
+      "the",
+      "an",
+      "is running"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "has run",
+    "a": [
+      "a",
+      "an",
+      "any",
+      "so."
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "It takes many years of studybecome a doctor.",
+    "a": [
+      "will",
+      "but",
+      "in order to",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "arrived they too have",
+      "a",
+      "to",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "arrived they too have",
+    "a": [
+      "and",
+      "at",
+      "to",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "-the new iPhone was so expensive, George bought it because he loved the design.",
+    "a": [
+      "but",
+      "to",
+      "Even though",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Cathy had a great CV and lots of experience,she didn't do well in the interview and didn't get the job.",
+    "a": [
+      "would",
+      "and",
+      "because",
+      "but"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "because",
+    "a": [
+      "will",
+      "the",
+      "to spend",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "was spending have spent",
+    "a": [
+      "a",
+      "the",
+      "more slowly",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "more slow slowlier slower",
+    "a": [
+      "hasn't called",
+      "so",
+      "any",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "My mom says Ito eat sweets before meals.",
+    "a": [
+      "but",
+      "the",
+      "oughtn't",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Cathy's flying from Moscow to ParisPrague. She has a three-hour stopover in Prague.",
+    "a": [
+      "but",
+      "the",
+      "and",
+      "via"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "I've got my passport, but I haven't found ............... your",
+    "a": [
+      "since",
+      "yours",
+      "an",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "And here's Emma, the friendlives next door.",
+    "a": [
+      "an",
+      "since",
+      "that",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which country is bigger, China or the USA?Whothe answer?",
+    "a": [
+      "for",
+      "an",
+      "since",
+      "knows"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "My Mom was angry with me yesterday because Ito do the shopping.",
+    "a": [
+      "since",
+      "some",
+      "had forgotten",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I think this is the worst chocolate cake I .................... ever eat",
+    "a": [
+      "would",
+      "but",
+      "have ever eaten",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "would ever have eaten",
+    "a": [
+      "had met",
+      "an",
+      "so",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "have met used to meet",
+    "a": [
+      "but",
+      "does he",
+      "will",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "By the time Iin Jeddah, I was hungry. Therefore, I bought a pizza.",
+    "a": [
+      "an",
+      "any",
+      "and",
+      "arrived"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "am arriving have arrived",
+    "a": [
+      "would",
+      "to make",
+      "because",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Children can fly alone on international flightsthey're at least six years old.",
+    "a": [
+      "will",
+      "the",
+      "provided that",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I can't imagine howfast food every day could be good for your health.",
+    "a": [
+      "but",
+      "eating",
+      "any",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Mrs. Smith asked the teacherangry with her son.",
+    "a": [
+      "but",
+      "would",
+      "not to be",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Too many phone callsfrom my phone today. The battery's now dead.",
+    "a": [
+      "so",
+      "for",
+      "have been made",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "My own sister didn't recognize me at first, so she talked to me as if webefore.",
+    "a": [
+      "for",
+      "had never met",
+      "would",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "were never meeting",
+    "a": [
+      "and",
+      "any",
+      "a",
+      "will have been published"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "will have been publishing are going to publish",
+    "a": [
+      "so",
+      "would",
+      "some",
+      "old enough to get"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "I wish Iharder to achieve my goals. Instead, I'd hang out with my friends every night.",
+    "a": [
+      "any",
+      "the",
+      "because",
+      "had worked"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "British people love eating lots of international foodChinese, Indian and Thai food.",
+    "a": [
+      "For example",
+      "the",
+      "would",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Choose the best way to make the following sentences in a paragraph:",
+    "a": [
+      "and",
+      "(3). (2). (1), (4)",
+      "a",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "will",
+      "but",
+      "a",
+      "Tom was first in his class at math and science, but he was disappointed to hear Ben was ahead of him in geography."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Was disappointed to hear Ben was ahead of him in geography but Tom he was first in his class at math and science. Tom was first in his class at math and science, but to hear Ben was ahead of him in geography he was disappointed.",
+    "a": [
+      "the",
+      "will",
+      "but",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "therefore",
+    "a": [
+      "a",
+      "would",
+      "and",
+      "Have you tried"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "an",
+      "to play ago has yet.",
+      "and",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "has yet",
+    "a": [
+      "is",
+      "be",
+      "were",
+      "was"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "can be could be",
+    "a": [
+      "will",
+      "but",
+      "will be waiting",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Dairy products shouldto keep them fresh.",
+    "a": [
+      "be refrigerated",
+      "but",
+      "for",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  }
+]

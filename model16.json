@@ -1,0 +1,494 @@
+[
+  {
+    "q": "Whatyour father’s job? is be can",
+    "a": [
+      "is",
+      "be",
+      "was",
+      "were"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "does",
+    "a": [
+      "to",
+      "would",
+      "her.",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "hers.",
+    "a": [
+      "an",
+      "will build.",
+      "but",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "would build.",
+    "a": [
+      "some",
+      "would",
+      "which.",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "what.",
+    "a": [
+      "Not all Muslims speak Arabic or are from the Middle East; Indonesia and Malaysia are two Asian countries with millions of citizens who practice Islam.",
+      "the",
+      "but",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Roger wanted……… a new phone.",
+    "a": [
+      "so",
+      "to buy.",
+      "because",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "that he buts.",
+    "a": [
+      "but",
+      "a",
+      "to give.",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "giving.",
+    "a": [
+      "would",
+      "and",
+      "mine.",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "myself.",
+    "a": [
+      "because",
+      "Matt had a stressful day at work, so when he came home, he didn’t want to talk to anyone.",
+      "an",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Matt had a stressful day at work, so when he came home; he didn’t want to talk to anyone.",
+    "a": [
+      "so he bought a cheaper one instead.",
+      "any",
+      "and",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "until he bought a cheaper one instead.",
+    "a": [
+      "After lunch was over, Mrs. Wilson washed the dishes, dried them, and put them away in the cupboard.",
+      "will",
+      "some",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mrs. Wilson washed the dishes, dried them, after lunch was over, and put them away in the cupboard.",
+    "a": [
+      "since",
+      "and",
+      "froze.",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "freezes.",
+    "a": [
+      "so",
+      "an",
+      "at.",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Paul: I left my coat in the car. Will: here, you can borrow………………...",
+    "a": [
+      "because",
+      "any",
+      "since",
+      "mine."
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "our. it.",
+    "a": [
+      "the",
+      "any",
+      "themselves.",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Sara: I finally saw my doctor last week. Jane: What did she say? Sara: She told mesome new medication.",
+    "a": [
+      "a",
+      "the",
+      "to",
+      "to take."
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "taking.",
+    "a": [
+      "a",
+      "finish.",
+      "but",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "will finish.",
+    "a": [
+      "any",
+      "since",
+      "because",
+      "some"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In which sentence Is all PUNCTUATION correct?",
+    "a": [
+      "and",
+      "When I was younger, my mother said my messy hair looked like a rat’s nest.",
+      "since",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which sentence Is all CAPITALIZATION correct?",
+    "a": [
+      "At first, my eldest sister, Sara, wanted to study chemistry at King Sand University, but one of her professors, Doctor Hilda, persuaded her to join the College of Medicine after she finishes the first semester in January.",
+      "will",
+      "but",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which sentence is CAPITALIZATION correct?",
+    "a": [
+      "This semester, Mark is taking math, geography, geology, French, and English.",
+      "some",
+      "to",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "This Semester, Mark is taking Math, geography, geology, French, and English.",
+    "a": [
+      "the",
+      "for",
+      "C- This year, Maria is studying business studies, math, English, and Spanish.",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which one of the underlined words or phrases Is INCORRECT?",
+    "a": [
+      "and",
+      "jump their Furthermore over time",
+      "but",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "jump.",
+    "a": [
+      "to",
+      "because",
+      "so",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "because",
+    "a": [
+      "but",
+      "the",
+      "“Watch out!” the girl screamed at her sister, who was about to walk straight into a pole.",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "“Watch out!” the girl screamed, at her sister, who was about to walk straight into a pole?",
+    "a": [
+      "He said he would like to travel to China one day, after he has finished his studies and paid off all of his debts.",
+      "for",
+      "to",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which sentence Is all CAPITALIZATION correct?",
+    "a": [
+      "an",
+      "Traveling south on King Fahad Road is the quickest route to Batha .",
+      "but",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Travelling South on king Fahad Road is the quickest route to batha.",
+    "a": [
+      "hasn’t returned.",
+      "an",
+      "a",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Peter’s mother kept looking at him while he…lectured by his father. is",
+    "a": [
+      "for",
+      "the",
+      "will",
+      "was being"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Writing long lettersvery common a hundred years ago. is was",
+    "a": [
+      "was",
+      "be",
+      "is",
+      "were"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has been",
+    "a": [
+      "but",
+      "the",
+      "so",
+      "shopping"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to shopping",
+    "a": [
+      "since",
+      "so",
+      "had shown",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have showed",
+    "a": [
+      "goes",
+      "so",
+      "an",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Wein the hot sun for nearly an hour and the bus still has not come.",
+    "a": [
+      "have been waiting",
+      "since",
+      "a",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Physics is the science whichlight, heat, sound and electricity.",
+    "a": [
+      "a",
+      "to",
+      "studies",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "study",
+    "a": [
+      "an",
+      "going",
+      "a",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to going",
+    "a": [
+      "are made",
+      "to",
+      "since",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "made",
+    "a": [
+      "to go",
+      "to having",
+      "to make",
+      "getting"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "going",
+    "a": [
+      "had worked",
+      "would",
+      "and",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The nurse asked the lady how sheafter taking the medication.",
+    "a": [
+      "any",
+      "would",
+      "felt",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Has felt",
+    "a": [
+      "not to go",
+      "so",
+      "will",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  }
+]

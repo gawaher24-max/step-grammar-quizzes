@@ -1,0 +1,482 @@
+[
+  {
+    "q": "If it rains tomorrow, Imy raincoat.",
+    "a": [
+      "an",
+      "will wear",
+      "some",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "going to wear",
+    "a": [
+      "to get",
+      "get",
+      "to make",
+      "getting"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "getting",
+    "a": [
+      "for",
+      "would",
+      "will",
+      "After all the exams are finished, who's going to be the first in the class?"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "makes with for dessert.",
+      "would",
+      "to",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "with for",
+    "a": [
+      "some",
+      "for",
+      "Both tea and coffee contain a lot of protein, but the acids in the tea are healthier than the caffeine in the coffee.",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "But in the tea the acids are healthier than in the coffee the caffeine, a lot of protein both tea and coffee contain.",
+    "a": [
+      "because",
+      "to",
+      "Your job interview will be next Tuesday.",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "Comparatives",
+    "explain": "وجود than يدل على صيغة المقارنة: adj+er أو more + adjective."
+  },
+  {
+    "q": "You're job interview will be next Tuesday.",
+    "a": [
+      "any",
+      "After all the matches are finished, who's going to be at the top of the league?",
+      "for",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "After all, the matches are finished, whos going to be the at the top of the league.",
+    "a": [
+      "for",
+      "so",
+      "speaks about plan her manager",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "about",
+    "a": [
+      "to",
+      "the",
+      "a",
+      "when"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Excuse me Jan,you please buy some pens from the bookshop for me?",
+    "a": [
+      "because",
+      "for",
+      "would",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "should",
+    "a": [
+      "since",
+      "so",
+      "the",
+      "must work"
+    ],
+    "correct": 3,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "must working",
+    "a": [
+      "and",
+      "will understand",
+      "an",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "had understood",
+    "a": [
+      "the",
+      "an",
+      "will celebrate",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had celebrated",
+    "a": [
+      "and",
+      "wanted",
+      "an",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had wanted",
+    "a": [
+      "was writing",
+      "since",
+      "will",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "wrote",
+    "a": [
+      "who",
+      "will",
+      "for",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The teacher told studentsabout the exam.",
+    "a": [
+      "some",
+      "will",
+      "not to worry",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "not worry",
+    "a": [
+      "for",
+      "so",
+      "the",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "George's favorite book is “crime and punishment”one is yours?",
+    "a": [
+      "to",
+      "which",
+      "and",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Joe: Do you have time to watch the news or are you too busy with your studies?",
+    "a": [
+      "but",
+      "so",
+      "and",
+      "it"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "those",
+    "a": [
+      "any",
+      "would",
+      "to",
+      "definitely"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "You need to work muchLinda This is a difficult course.",
+    "a": [
+      "harder",
+      "because",
+      "to",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "hardest",
+    "a": [
+      "a",
+      "and",
+      "since",
+      "a few"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "a little",
+    "a": [
+      "an",
+      "think",
+      "a",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to think",
+    "a": [
+      "writing",
+      "will",
+      "to",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "you writing",
+    "a": [
+      "are",
+      "is",
+      "be",
+      "were"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "being",
+    "a": [
+      "an",
+      "because",
+      "might",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "must",
+    "a": [
+      "since",
+      "who",
+      "any",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Yesterday Mr. Carter told me he doesn’t know from which bookshop ………….",
+    "a": [
+      "the marketing book is available.",
+      "an",
+      "will",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "the marketing book available is",
+    "a": [
+      "the",
+      "would start",
+      "to",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has started",
+    "a": [
+      "have been developing",
+      "some",
+      "any",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has developed",
+    "a": [
+      "a",
+      "Last week, she listened to three lectures to prepare for her three lectures at London University tomorrow.",
+      "an",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "(c) Last week, she listened to three lectures to prepare for her three lectures at London university tomorrow.",
+    "a": [
+      "some",
+      "an",
+      "for",
+      "so"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "some",
+      "the",
+      "Mark said he would like to visit Brazil, after he has finished his studies and found a good job.",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Mark said he would like to visit Brazil, and has found a good job, after he has finished his studies.",
+    "a": [
+      "would",
+      "but",
+      "read",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "their",
+    "a": [
+      "to",
+      "some",
+      "At first, my sister, Kate, wanted to study chemistry at King Faisal University, but one of her teachers, Mrs. Carter, told her to join the College of Engineering after she finishes the first semester in January",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "At first, my sister, Kate, wanted to study Chemistry at King faisal university, but one of her Teachers, Mrs. Carter, told her to join the college of Engineering after she finishes the first semester in January.",
+    "a": [
+      "a",
+      "to",
+      "will",
+      "yours"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Airplanes usually travelhelicopters.",
+    "a": [
+      "faster than",
+      "will",
+      "because",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "fastest than",
+    "a": [
+      "have performed",
+      "and",
+      "to",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "were performed",
+    "a": [
+      "because",
+      "whom",
+      "some",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  }
+]

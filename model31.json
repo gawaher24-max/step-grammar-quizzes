@@ -1,0 +1,326 @@
+[
+  {
+    "q": "Whatyour father's job?",
+    "a": [
+      "are",
+      "was",
+      "were",
+      "is"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "does",
+    "a": [
+      "which",
+      "because",
+      "the",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In which sentence is all CAPITALIZATION correct?",
+    "a": [
+      "would",
+      "an",
+      "since",
+      "Not all Muslims speak Arabic or are from the Middle East: Indonesia and Malaysia are two Asian countries with millions of citizens who practice Islam."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Paul: I left my coat in the car.",
+    "a": [
+      "because",
+      "so",
+      "mine",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In which sentence is all CAPITALIZATION correct?",
+    "a": [
+      "so",
+      "The first person to ever see Mars was Mr. Galileo Galilei in 1610.",
+      "will",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "The first Person to ever see Mars was Mr. Galileo Galilei in 1610. The first Person to ever see mars was Mr. Galileo Galilei in 1610. The first person to ever see mars was mr. galileo galilei in 1610.",
+    "a": [
+      "any",
+      "but",
+      "so",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Peter loves cooking, so he thought he'd try to make some ..................",
+    "a": [
+      "so",
+      "some",
+      "any",
+      "Indian food"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "In which sentence is all PUNCTUATION correct?",
+    "a": [
+      "and",
+      "the",
+      "a",
+      "After completing his degree in Jeddah, Ali was thinking about doing a degree abroad. He felt this would improve his chances of a good job."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "After completing his degree in Jeddah Ali was thinking about doing a degree abroad he felt this would improve his chances of a good job.",
+    "a": [
+      "One of the longest rulers in the world was King Hussein of Jordan, who led his country for 46 years.",
+      "any",
+      "but",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "One of the longest rulers in the world was king Hussein of jordan, who led his country for 46 years.",
+    "a": [
+      "to",
+      "so",
+      "the person",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "some person",
+    "a": [
+      "Neither",
+      "but",
+      "because",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Would it be ok if Ia break now?",
+    "a": [
+      "would",
+      "because",
+      "took",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "am taking have taken",
+    "a": [
+      "any",
+      "an",
+      "and",
+      "been able to"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "We're leaving in half an hour, so weeat lunch now.",
+    "a": [
+      "a",
+      "for",
+      "had better",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Whether or not we get the loan dependsthe bank.",
+    "a": [
+      "on",
+      "but",
+      "an",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "How long has Judy been marriedJack?",
+    "a": [
+      "to",
+      "any",
+      "will",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "None of my kids are short.is taller than me.",
+    "a": [
+      "Each",
+      "an",
+      "will",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "Comparatives",
+    "explain": "وجود than يدل على صيغة المقارنة: adj+er أو more + adjective."
+  },
+  {
+    "q": "I'm sure all .................... you told me about Mrs. Wilson was true. what",
+    "a": [
+      "has",
+      "any",
+      "to",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Jane: I'll pay Mia back tomorrow. Mia: What did Jane say?",
+    "a": [
+      "to pay",
+      "since",
+      "to",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "would pay",
+    "a": [
+      "would",
+      "stood",
+      "any",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "was standing",
+    "a": [
+      "the",
+      "would",
+      "any",
+      "had been"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When the phone rang, my Mom was annoyed because sheher favourite show.",
+    "a": [
+      "was watching",
+      "so",
+      "will",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has been watching",
+    "a": [
+      "the rich",
+      "the",
+      "some",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "She works night shifts and studies by ................. day",
+    "a": [
+      "so",
+      "for",
+      "would",
+      "will be"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I used to tell my parents thatto California, I'd never have met my wife.",
+    "a": [
+      "would",
+      "an",
+      "had we not moved",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "There's something wrong with the window. It justopen.",
+    "a": [
+      "a",
+      "can't",
+      "since",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Don't call him now. Helunch.",
+    "a": [
+      "may be having",
+      "some",
+      "for",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  }
+]

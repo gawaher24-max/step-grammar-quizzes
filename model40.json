@@ -1,0 +1,506 @@
+[
+  {
+    "q": "He went to university in the UK …… a PhD in physics. get",
+    "a": [
+      "to having",
+      "to get",
+      "to make",
+      "to being"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "to getting",
+    "a": [
+      "so",
+      "to spend",
+      "a",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "be spending",
+    "a": [
+      "since",
+      "and",
+      "Adam had obviously fallen asleep while sitting on the couch, but when asked about it later, he claimed he was simply meditating.",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Steve's watch was not working properly, …… he took it to a repair shop. but so",
+    "a": [
+      "some",
+      "any",
+      "so",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "because",
+    "a": [
+      "since",
+      "a",
+      "and",
+      "she to me got first job."
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "first job",
+    "a": [
+      "an",
+      "since",
+      "so",
+      "took the subway to my apartment to surprise me."
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The film started at 7 o’clock, ………………………………..",
+    "a": [
+      "for",
+      "and we arrived just in time for the commercials.",
+      "to",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "since",
+      "On Wednesday to discuss review last",
+      "would",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "On Wednesday",
+    "a": [
+      "will",
+      "but",
+      "review",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "last",
+    "a": [
+      "They came here on Thursday, September 20.",
+      "and",
+      "any",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mark’s son ishis father.",
+    "a": [
+      "would",
+      "as big as",
+      "a",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "as bigger than",
+    "a": [
+      "since",
+      "an",
+      "to spend",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "was spending",
+    "a": [
+      "to",
+      "but",
+      "more slowly",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "slower",
+    "a": [
+      "because",
+      "for",
+      "hasn’t called",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "hasn’t been calling",
+    "a": [
+      "several",
+      "an",
+      "any",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If Fatimasome money for her last birthday, she’ll buy a new phone.",
+    "a": [
+      "since",
+      "any",
+      "so",
+      "gets"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mr. Smith is rich now, but he…rather poor.",
+    "a": [
+      "used to be",
+      "an",
+      "would",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "use to be",
+    "a": [
+      "would",
+      "Would",
+      "for",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Shall",
+    "a": [
+      "might not",
+      "so",
+      "a",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "shall not",
+    "a": [
+      "regarding",
+      "an",
+      "the",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "towards",
+    "a": [
+      "some",
+      "would",
+      "for",
+      "yourself"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "yourselves",
+    "a": [
+      "to",
+      "one",
+      "will",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "This is my knife, but where is?",
+    "a": [
+      "a",
+      "because",
+      "since",
+      "yours"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "yourself",
+    "a": [
+      "since",
+      "the",
+      "would",
+      "does he"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The final decision mayuntil next month.",
+    "a": [
+      "be delayed",
+      "any",
+      "would",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "be delaying",
+    "a": [
+      "cutting",
+      "since",
+      "and",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "be cut cut",
+    "a": [
+      "so",
+      "and",
+      "any",
+      "were about to"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "were going",
+    "a": [
+      "and",
+      "for",
+      "owing to",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "despite",
+    "a": [
+      "are supposed to be kept",
+      "a",
+      "will",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "are supposed to keep",
+    "a": [
+      "an",
+      "but",
+      "because",
+      "hadn’t bought"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "haven’t bought",
+    "a": [
+      "but",
+      "an",
+      "the",
+      "eating"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "be eating eat",
+    "a": [
+      "any",
+      "not to be",
+      "some",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which phrase CORRECTLY REPLACES the INCORRECT underlined phrase?",
+    "a": [
+      "but",
+      "and",
+      "would",
+      "Walk in the mall"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "To which sentence can we add the following clause?until it boils.",
+    "a": [
+      "(2)",
+      "and",
+      "for",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Sara was preparing the pizza and adding the toppings…Helen was getting the oven ready.",
+    "a": [
+      "for",
+      "any",
+      "but",
+      "while"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "until",
+    "a": [
+      "after",
+      "the",
+      "will",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "until",
+    "a": [
+      "they look on ticket there",
+      "an",
+      "because",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "they",
+    "a": [
+      "and",
+      "look on",
+      "would",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "ticket",
+    "a": [
+      "and",
+      "because",
+      "so",
+      "faster than"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "fastest than",
+    "a": [
+      "some",
+      "have performed",
+      "to",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "were performed",
+    "a": [
+      "for",
+      "any",
+      "were all eaten",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "were all eating",
+    "a": [
+      "to",
+      "the",
+      "whom",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  }
+]

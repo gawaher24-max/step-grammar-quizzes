@@ -1,0 +1,470 @@
+[
+  {
+    "q": "Go outside and …… the gardener some water. He needs a break.",
+    "a": [
+      "bring.",
+      "because",
+      "for",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to bring. bringing. will bring.",
+    "a": [
+      "for",
+      "would",
+      "will",
+      "Among John's favorite places to travel were Malaysia, Morocco, and any exotic location with a nice, clean beach"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "George: may I speak to Mr. Ben?",
+    "a": [
+      "is running",
+      "so",
+      "would",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "has run",
+    "a": [
+      "for",
+      "so.",
+      "would",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT ?",
+    "a": [
+      "an",
+      "will",
+      "she for before reached she",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "for before reached",
+    "a": [
+      "and",
+      "a",
+      "realized that I left my mobile phone at home.",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "- Will and Bob were the first to arrive at the dinner party and then ….....................…….",
+    "a": [
+      "Soon after Mike and Chris came with a box of chocolates.",
+      "would",
+      "an",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Which one of the UNDERLINED words or phrases is INCORRECT?",
+    "a": [
+      "his in last score",
+      "the",
+      "for",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "in last score",
+    "a": [
+      "any",
+      "Paul’s boss, Mr. Johnson, told him to hand in the report by Wednesday 10 March.",
+      "so",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Little Anna playedwith her toys as her mother made dinner",
+    "a": [
+      "some",
+      "will",
+      "and",
+      "happily"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mike fightsof all the boxers I know",
+    "a": [
+      "to",
+      "hardest",
+      "because",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Some people say John’s heart isice, but I disagree.",
+    "a": [
+      "as cold as",
+      "a",
+      "some",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If business is good again this year, weourselves a second house.",
+    "a": [
+      "to",
+      "some",
+      "any",
+      "will build"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Something happened at work. Yougo back to the office right now.",
+    "a": [
+      "a",
+      "must",
+      "but",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Mark: is there a spoon I could borrow? Roger: There’s ……… in the top drawer.",
+    "a": [
+      "an",
+      "would",
+      "one",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "George married Julia, and Julia married George. George and Julia married .….........",
+    "a": [
+      "each other",
+      "so",
+      "for",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The issue we need to concentratehere is very serious.",
+    "a": [
+      "for",
+      "on",
+      "a",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "When the food finally arrived, the peoplefor it for hours.",
+    "a": [
+      "so",
+      "had been waiting",
+      "an",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Will you remember…………everyone about the changes? You must not forget.",
+    "a": [
+      "since",
+      "because",
+      "to tell",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "We’ve been waiting for hours. Ted still ……….. hasn’t arrived",
+    "a": [
+      "would",
+      "so",
+      "and",
+      "is going to leave"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "The bus driver spoke so    I could barely understand him.",
+    "a": [
+      "because",
+      "any",
+      "and",
+      "fast"
+    ],
+    "correct": 3,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Excellent cheeseonly in France.",
+    "a": [
+      "isn't made",
+      "a",
+      "but",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Late in the evening,since sunrise, Mrs. Johnson finally ate her first hot meal.",
+    "a": [
+      "for",
+      "will",
+      "because",
+      "having worked"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "will have been working",
+    "a": [
+      "and",
+      "have been saved",
+      "some",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Judy acts as if she    upset, while in fact she just wants to attract your attention.",
+    "a": [
+      "was",
+      "be",
+      "were",
+      "is"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "The new office block should   by the spring, so we can move in before the summer break starts.",
+    "a": [
+      "so",
+      "any",
+      "be built",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "be building have been built",
+    "a": [
+      "would",
+      "a",
+      "to",
+      "will"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The salespersonI deal each time is not available today.",
+    "a": [
+      "with whom",
+      "because",
+      "will",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In which of the following sentences is all PUNCTUATION correct?",
+    "a": [
+      "After all the exams are finished, who's going to be the first in the class?",
+      "an",
+      "some",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Tomto Italy every year.",
+    "a": [
+      "would",
+      "goes",
+      "to",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "is goes is going",
+    "a": [
+      "are",
+      "is",
+      "were",
+      "was"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When you have answered the questions on page 104, …… you raise your hands, please?",
+    "a": [
+      "so",
+      "a",
+      "would",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Ali goes to Jeddah every monthit has the best beaches.",
+    "a": [
+      "the",
+      "so",
+      "because",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "In which sentence is all PUNCTUATION correct?",
+    "a": [
+      "a",
+      "the",
+      "When I was younger, my father said my hair looked like a rat’s nest.",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "He did not havemoney in his wallet, so he stopped by the cash machine.",
+    "a": [
+      "many",
+      "much",
+      "more",
+      "most"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "A: Is it John's turn to start the game?",
+    "a": [
+      "yours",
+      "would",
+      "so",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "When Lisa    a child, she learnt to read Arabic.",
+    "a": [
+      "is",
+      "be",
+      "was",
+      "were"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "I have not gone to DubaiMay last year.",
+    "a": [
+      "since",
+      "for",
+      "any",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "I took a lot of notes while the professor…………..",
+    "a": [
+      "was speaking",
+      "will",
+      "to",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  }
+]

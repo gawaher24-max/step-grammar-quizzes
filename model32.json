@@ -1,0 +1,494 @@
+[
+  {
+    "q": "The computer costs somoney that the family decided not to buy it.",
+    "a": [
+      "most",
+      "more",
+      "many",
+      "much"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which sentence is all CAPITALIZATION correct?",
+    "a": [
+      "since",
+      "Running late, he yelled, “Stop!” as he chased after the Kingdom University bus that took him to work every morning.",
+      "to",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "so",
+      "since",
+      "because",
+      "After eating dinner, the family used to read books while drinking tea, and then they would start getting ready for bed."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "The family used to read books while drinking tea, and then they would start getting ready, after eating dinner, for bed.",
+    "a": [
+      "the",
+      "since",
+      "to begin",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "that they begin",
+    "a": [
+      "some",
+      "the",
+      "to",
+      "Where did you complete your master’s degree?"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which phrase correctly replace the INCORRECT underlined phrase? ما العبارة التي تحل محل العبارة غير الصحيحة التي تحتها خط؟",
+    "a": [
+      "since",
+      "will",
+      "any",
+      "welcome You`re"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Do you go often? That’s great news. Sounds good to me. Yes. Me too.",
+    "a": [
+      "It`s due on Monday.",
+      "any",
+      "would",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "I will try my best. I am sorry.",
+    "a": [
+      "but",
+      "the",
+      "a",
+      "Happy to help."
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When is the deadline.",
+    "a": [
+      "because",
+      "any",
+      "a",
+      "Do you fly a lot?"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Congratulations!",
+    "a": [
+      "any",
+      "will",
+      "Sure. I can help with that.",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In which sentence is all PUNCTIUATION correct?",
+    "a": [
+      "will",
+      "to",
+      "After the arrival of their new baby, Jane and Dave wanted to buy a bigger house. However, they couldn’t afford it.",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "German is still not a very popular language among …...................",
+    "a": [
+      "a",
+      "the French",
+      "because",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When our neighbours sold their huge house, theylots of money",
+    "a": [
+      "would",
+      "and",
+      "an",
+      "must have made"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Why don’t we do my homework first?looks much more difficult.",
+    "a": [
+      "Yours",
+      "for",
+      "some",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Since we can’t go out, whyThe game at home?",
+    "a": [
+      "because",
+      "an",
+      "don’t we watch",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Anna blames her poor educationher parents.",
+    "a": [
+      "for",
+      "on",
+      "since",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Kate didn’t find out until later that shethe wrong choice.",
+    "a": [
+      "because",
+      "the",
+      "had made",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "has been making",
+    "a": [
+      "would",
+      "had been",
+      "because",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Did you remember ……......…. Ben to pick up Amy from school?Does he know?",
+    "a": [
+      "because",
+      "to tell",
+      "and",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Does anyone know where Roger is? He still ………… hasn’t arrived",
+    "a": [
+      "an",
+      "a",
+      "as carefully as",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Just minutes afterhis medicine, Adam began to feel better.",
+    "a": [
+      "because",
+      "a",
+      "taking",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Our son Paul hopesat his grandparents for another week.",
+    "a": [
+      "but",
+      "to stay",
+      "some",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Of the two hotels, we’ve chosen this one becauseis too far away",
+    "a": [
+      "the other",
+      "to",
+      "any",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "We were so tired we just felt like talking toat all.",
+    "a": [
+      "nobody",
+      "an",
+      "would",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Then one day,hard all her life, Mrs. Davis finally retired.",
+    "a": [
+      "to",
+      "having worked",
+      "any",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "will have been working",
+    "a": [
+      "a",
+      "were about to",
+      "since",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If I hadn’t worked so hard, Ia new car now.",
+    "a": [
+      "to",
+      "but",
+      "wouldn’t have had",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "don’t have",
+    "a": [
+      "should be fixed",
+      "because",
+      "for",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "ought have been fixing",
+    "a": [
+      "for",
+      "some",
+      "so",
+      "be built"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "be building have been built",
+    "a": [
+      "the",
+      "will",
+      "and",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If only Imore carefully. Unfortunately, I made too many mistakes.",
+    "a": [
+      "had worked",
+      "any",
+      "so",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "By the end of the month, I30,000 SAR- enough to buy my first car.",
+    "a": [
+      "the",
+      "will",
+      "will have saved",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "am going to be saved",
+    "a": [
+      "to",
+      "any",
+      "will",
+      "are going"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "The children were hungry so they asked their mothersome food.",
+    "a": [
+      "because",
+      "for",
+      "to make",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to making",
+    "a": [
+      "would",
+      "so",
+      "the",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "to",
+      "Even though Ahmed didn’t know anyone when he first arrived in Paris, he quickly made many friends.",
+      "since",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Many friends he quickly made even though when he first arrived in Paris, Ahmed didn’t know anyone.",
+    "a": [
+      "will",
+      "too",
+      "the",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I don’t understand this sentence. What?",
+    "a": [
+      "does this word mean",
+      "to",
+      "but",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "That’s a beautiful new jacket! Whereyou buy it?",
+    "a": [
+      "since",
+      "did",
+      "some",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "The children could notout to ride their bikes because it was raining.",
+    "a": [
+      "go",
+      "a",
+      "will",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "The boxfrom recycled paper.",
+    "a": [
+      "for",
+      "any",
+      "will",
+      "was made"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  }
+]

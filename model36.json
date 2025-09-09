@@ -1,0 +1,434 @@
+[
+  {
+    "q": "If it rains tomorrow, Imy raincoat.",
+    "a": [
+      "would",
+      "will wear",
+      "for",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Now it is 10:00 PM. The trainat 11:00 pm",
+    "a": [
+      "an",
+      "will arrive",
+      "so",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If you promise to keep a secret, Iyou what happened.",
+    "a": [
+      "will tell",
+      "a",
+      "since",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which of the following sentences has the CORRECT WORD ORDER?",
+    "a": [
+      "but",
+      "will",
+      "He burned incense for an hour in the morning so that his house would smell nice through the rest of the day.",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "There is stillmoney left in my pocket. I have about five dollars or so.",
+    "a": [
+      "since",
+      "for",
+      "and",
+      "some"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER? I drink Pepsi never late at night.",
+    "a": [
+      "the",
+      "I never drink Pepsi late at night.",
+      "would",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Later that week, her manager called her and said that she had given the best presentation in the history of the company.",
+    "a": [
+      "will",
+      "but",
+      "(5) , (4), (2) , (1), (3)",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "If Bob's late for work one more time, hehis job.",
+    "a": [
+      "but",
+      "will lose",
+      "for",
+      "the"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mike .................... be so rude to his neighbour. I have to tell him. shouldn't",
+    "a": [
+      "the",
+      "for",
+      "so",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "I just saw your brother in the hospital.happened to him?",
+    "a": [
+      "a",
+      "but",
+      "because",
+      "What"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "The manwe just met is our new boss.",
+    "a": [
+      "whom",
+      "will",
+      "the",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "This bookby a famous English writer in 1603",
+    "a": [
+      "since",
+      "any",
+      "was written",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Before hea decision, Ted checked all the facts.",
+    "a": [
+      "to",
+      "made",
+      "because",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has made makes",
+    "a": [
+      "were",
+      "was",
+      "is",
+      "be"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Your father drives a Bentley! Whatfor a living?",
+    "a": [
+      "does he do",
+      "and",
+      "would",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "is he",
+    "a": [
+      "would",
+      "so",
+      "smoking",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I know you didn't break the window. Itby Emma's sister.",
+    "a": [
+      "to",
+      "would",
+      "but",
+      "was broken"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I'm afraid you’re late for dinner. All the food has .........................",
+    "a": [
+      "been eaten",
+      "since",
+      "some",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "My father is a vegetarian. He eatsmeat nor fish.",
+    "a": [
+      "will",
+      "neither",
+      "would",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If I spoke French, Ihelp the people, but I only speak English.",
+    "a": [
+      "could",
+      "and",
+      "because",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If Cathy had not spent all her money, sheto borrow 20 dollars from me.",
+    "a": [
+      "an",
+      "because",
+      "wouldn't have had",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "Third conditional",
+    "explain": "If + had + past participle, would have + past participle."
+  },
+  {
+    "q": "My brother and I had an argument last night. He said heto me again.",
+    "a": [
+      "would never speak",
+      "since",
+      "will",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "While my wife and I were in Austria last winter, weskiing in the mountains.",
+    "a": [
+      "because",
+      "and",
+      "went",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Chris has lived in his house all his life. He seemseveryone in the neighborhood.",
+    "a": [
+      "but",
+      "to know",
+      "would",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "to be known",
+    "a": [
+      "for",
+      "the",
+      "since",
+      "in"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "My colleagues made mefor them on my birthday.",
+    "a": [
+      "sing",
+      "any",
+      "to",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "would",
+      "will",
+      "Ahmad went to the British Embassy to get a document approved, but when he arrived, he was not allowed in because he had not made an appointment first.",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "But when he arrived, Ahmad went to the British Embassy to get a document approved, he was not allowed in because he had not made an appointment first.",
+    "a": [
+      "but",
+      "Some people enjoy visiting museums during their holidays. There are some things that you should think about when going to a museum including opening times, guided tours, and where to eat lunch.",
+      "a",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "-To which sentence can we add the following clause?",
+    "a": [
+      "for",
+      "and",
+      "since",
+      "(1)"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Karen didn't understand the task her manager gave hershe kept asking for more information.",
+    "a": [
+      "to",
+      "would",
+      "so",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "My sister doesn't speak French............................... So does my brother",
+    "a": [
+      "because",
+      "Neither does my brother",
+      "some",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "for",
+      "any",
+      "the",
+      "was finded last story."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "was finded last story",
+    "a": [
+      "the",
+      "but",
+      "and",
+      "would enroll"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "is going to enroll",
+    "a": [
+      "must go",
+      "to",
+      "so",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Mr. Amir,the students call Uncle Amir, taught the boys physical education several times a week.",
+    "a": [
+      "to",
+      "would",
+      "whom",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If I ………….. more time, Imore languages.",
+    "a": [
+      "for",
+      "would",
+      "had / would learn",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  }
+]

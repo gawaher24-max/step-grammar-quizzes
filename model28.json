@@ -1,0 +1,482 @@
+[
+  {
+    "q": "If it rains tomorrow, Imy raincoat.",
+    "a": [
+      "a",
+      "for",
+      "will wear",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Adama book now.",
+    "a": [
+      "but",
+      "and",
+      "is reading",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When I go to King Saud University Library, I usually ………………",
+    "a": [
+      "some",
+      "an",
+      "study",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "so",
+      "since",
+      "had to buy so have to",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "to buy so",
+    "a": [
+      "to",
+      "After all the offices are finished, who's going to have the biggest room?",
+      "since",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "After all, the offices are finished, whos going to have the biggest room.",
+    "a": [
+      "and",
+      "Some people enjoy visiting museums during their holidays. There are some things that you should think about when going to a museum including opening times, guided tours, and where to eat launch.",
+      "because",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Some people enjoy visiting museums during their holidays: there are some things that you should think about when going to a museum including, opening times, guided tours, and, where to eat launch.",
+    "a": [
+      "since",
+      "and",
+      "an",
+      "I never drink Pepsi late at night."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Never I drink Pepsi late at night.",
+    "a": [
+      "since",
+      "some",
+      "The boy and his father came home late.",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "She made sure to sleep early on the night before the presentation so that she would be well rested and focused.",
+    "a": [
+      "and",
+      "(5), (4), (2), (1), (3).",
+      "for",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "There is stillmoney left in my pocket. I have about five dollars or so.",
+    "a": [
+      "an",
+      "some",
+      "but",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If Bob’s late for work one more time, hehis job.",
+    "a": [
+      "some",
+      "any",
+      "an",
+      "will lose"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "would lose",
+    "a": [
+      "an",
+      "a",
+      "shouldn’t",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "doesn’t",
+    "a": [
+      "because",
+      "so",
+      "a",
+      "for"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I just saw your brother in the hospital.happened to him? who",
+    "a": [
+      "for",
+      "an",
+      "to",
+      "what"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "whom",
+    "a": [
+      "and",
+      "because",
+      "but",
+      "whom"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "what",
+    "a": [
+      "would",
+      "aggressively",
+      "any",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "aggression",
+    "a": [
+      "so",
+      "an",
+      "was written",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "writes",
+    "a": [
+      "so",
+      "made",
+      "any",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has made",
+    "a": [
+      "were",
+      "be",
+      "is",
+      "are"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had been",
+    "a": [
+      "some",
+      "so",
+      "any",
+      "does he do"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "does he",
+    "a": [
+      "an",
+      "will",
+      "since",
+      "smoking"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "smoke",
+    "a": [
+      "any",
+      "the",
+      "was broken",
+      "so"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I’m afraid you’re late for dinner. All the food has ……… .",
+    "a": [
+      "and",
+      "a",
+      "will",
+      "been taken"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "eaten ate",
+    "a": [
+      "for",
+      "neither",
+      "would",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If I spoke French, Ihelp the people, but I only speak English. can",
+    "a": [
+      "could",
+      "the",
+      "and",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "must",
+    "a": [
+      "will",
+      "wouldn’t have had",
+      "any",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "hasn’t had",
+    "a": [
+      "will",
+      "would never speak",
+      "any",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "While my wife and I were in Austria last winter, weskiing in the mountains.",
+    "a": [
+      "went",
+      "and",
+      "some",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Chris has lived in his house all his life. He seems ……. Everyone in the neighbourhood.",
+    "a": [
+      "to",
+      "would",
+      "for",
+      "to know"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I am really busy now, but I will join you guys……… fifteen minutes. by",
+    "a": [
+      "to",
+      "in",
+      "any",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "My colleagues made me ……. for them on my birthday.",
+    "a": [
+      "to",
+      "since",
+      "sing",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "sang",
+    "a": [
+      "Ahmed want to the British Embassy to get a document approved, but when he arrived, he was not allowed in because he had not made an appointment first.",
+      "so",
+      "some",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "To which sentence can we add the following clause?",
+    "a": [
+      "since",
+      "for",
+      "(1)",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Karen didn’t understand the task her manager gave her,she kept asking for more information.",
+    "a": [
+      "to",
+      "some",
+      "since",
+      "so"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "My sister doesn’t speak French. ……….......…. .",
+    "a": [
+      "since",
+      "because",
+      "neither does my brother",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "so doesn’t my brother.",
+    "a": [
+      "a",
+      "for",
+      "was finded last story",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "finded",
+    "a": [
+      "a",
+      "since",
+      "would enroll",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had enrolled",
+    "a": [
+      "for",
+      "would",
+      "a",
+      "must go"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "must",
+    "a": [
+      "will",
+      "a",
+      "but",
+      "whom"
+    ],
+    "correct": 3,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "which",
+    "a": [
+      "for",
+      "since",
+      "a",
+      "had/ would learn"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  }
+]

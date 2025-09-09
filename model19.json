@@ -1,0 +1,482 @@
+[
+  {
+    "q": "My Father livesDammam. on of at in",
+    "a": [
+      "any",
+      "an",
+      "in",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The Holy Mosque in Makah …… by billions of pilgrims for hundreds of years.",
+    "a": [
+      "has been visited",
+      "would",
+      "and",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "I’m going to my …… house in Dammam.",
+    "a": [
+      "an",
+      "since",
+      "Father’s",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Fathers",
+    "a": [
+      "would",
+      "wouldn’t",
+      "for",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "some",
+      "Salih is at the library right now.",
+      "for",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Right now at the library is salih.",
+    "a": [
+      "Many people enjoy camping in the desert during the winter months; there are some things that you should prepare to take with you including, water, food, tents, and extra Jackets.",
+      "any",
+      "for",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Taibah universityn 2005.",
+    "a": [
+      "some",
+      "was established",
+      "a",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "the",
+      "I never drink coffee at night.",
+      "any",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Never I drink coffee at night.",
+    "a": [
+      "an",
+      "lots of",
+      "will",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "a little",
+    "a": [
+      "the",
+      "since",
+      "played",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have played",
+    "a": [
+      "some",
+      "was designed",
+      "would",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has been designed",
+    "a": [
+      "will",
+      "an",
+      "The girl and her mother arrived home early.",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The girl and her Mother arrived home early.",
+    "a": [
+      "any",
+      "the",
+      "will",
+      "(2), (1), (3)"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I don’t know ……. to do.",
+    "a": [
+      "what",
+      "some",
+      "and",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "which",
+    "a": [
+      "many",
+      "much",
+      "more",
+      "most"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "a lot",
+    "a": [
+      "to",
+      "and",
+      "would",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "should",
+    "a": [
+      "will",
+      "had been turned",
+      "since",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Which sentence has the correct word order?",
+    "a": [
+      "some",
+      "an",
+      "will",
+      "Ali went to the U.S Embassy to get a document notarized, but when he arrived, he was not allowed in because he had not made an appointment first."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "But when he arrived, Ali went to the U.S. Embassy to get a document notarized, he was not allowed in because he had not made an appointment first.",
+    "a": [
+      "so",
+      "since",
+      "published",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "I know all of your students work hard, but who works …… of all?",
+    "a": [
+      "but",
+      "and",
+      "the hardest",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "To which sentence can we add the following clause?",
+    "a": [
+      "(1)",
+      "would",
+      "and",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Faisal didn’t understand the question,he kept asking for help.",
+    "a": [
+      "since",
+      "to",
+      "but",
+      "so"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "I need some milk andbananas.",
+    "a": [
+      "d ) a few",
+      "since",
+      "will",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "My father doesn’t speak Spanish. ……………………………",
+    "a": [
+      "Neither does my mother",
+      "any",
+      "and",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "so doesn’t my mother",
+    "a": [
+      "I parked",
+      "some",
+      "but",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I park.",
+    "a": [
+      "would",
+      "was wined last finish",
+      "since",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "On the way, he met his friend Khalid.",
+    "a": [
+      "an",
+      "would",
+      "(3), (1), (4), (2)",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If I were you, Ibuy a small Japanese car. did",
+    "a": [
+      "because",
+      "some",
+      "would",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The horses drank all the water because theySo thirsty. are",
+    "a": [
+      "is",
+      "are",
+      "be",
+      "were"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "will be",
+    "a": [
+      "will",
+      "to",
+      "didn’t",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "wouldn’t",
+    "a": [
+      "the",
+      "an",
+      "little",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "hardly",
+    "a": [
+      "are",
+      "be",
+      "is",
+      "was"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "were",
+    "a": [
+      "but",
+      "and",
+      "would",
+      "on"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "My car ishis.",
+    "a": [
+      "any",
+      "less expensive than",
+      "would",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "the more expensive",
+    "a": [
+      "but",
+      "an",
+      "visit",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "visited",
+    "a": [
+      "since",
+      "but",
+      "would have heard",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Tomto Italy every year.",
+    "a": [
+      "would",
+      "for",
+      "b)goes.",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "is goes.",
+    "a": [
+      "will",
+      "some",
+      "whose",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I have no idea howto build a nest there.",
+    "a": [
+      "a",
+      "the bird managed",
+      "for",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "My son was born ……… January 17th 2006. in at on of",
+    "a": [
+      "on",
+      "would",
+      "some",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  }
+]

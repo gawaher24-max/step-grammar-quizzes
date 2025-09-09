@@ -1,0 +1,494 @@
+[
+  {
+    "q": "If it rains tomorrow, Imy raincoat.",
+    "a": [
+      "but",
+      "and",
+      "would",
+      "will wear"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "going to wear",
+    "a": [
+      "did you visit",
+      "because",
+      "would",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "you visited",
+    "a": [
+      "any",
+      "to",
+      "because",
+      "will"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "ought",
+    "a": [
+      "to having",
+      "to get",
+      "to make",
+      "to being"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "getting",
+    "a": [
+      "some",
+      "to",
+      "in",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Adama book now.",
+    "a": [
+      "any",
+      "for",
+      "is reading",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Now it is 10:00 PM. The trainat 11:00 pm",
+    "a": [
+      "would",
+      "will arrive",
+      "any",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If you promise to keep a secret, Iyou what happened.",
+    "a": [
+      "since",
+      "for",
+      "any",
+      "will tell"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "would tell",
+    "a": [
+      "so",
+      "study",
+      "but",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "am studying",
+    "a": [
+      "because",
+      "The discussion in class today was very interesting.",
+      "an",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which of the following sentences has the CORRECT WORD ORDER?",
+    "a": [
+      "because",
+      "but",
+      "the",
+      "Both fish and meat contain a lot of protein, but the oils in fish are healthier than the fat in meat."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which of the following sentences is all PUNCTUATION correct?",
+    "a": [
+      "After all the exams are finished, who's going to be the first in the class?",
+      "to",
+      "any",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Mary and Jane liketo the science museum together. go",
+    "a": [
+      "to",
+      "since",
+      "going",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "they go",
+    "a": [
+      "but",
+      "an",
+      "Susan waited until her paycheck was deposited into her bank account before buying a new computer for her parents.",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which of the following sentences has the CORRECT WORD ORDER?",
+    "a": [
+      "a",
+      "any",
+      "would",
+      "He burned incense for an hour in the morning so that his house would smell nice through the rest of the day."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "to",
+      "would",
+      "had to buy so have to",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "to buy so",
+    "a": [
+      "would",
+      "to",
+      "makes with for dessert",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "makes",
+    "a": [
+      "an",
+      "to",
+      "Your appointment will be next Monday.",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "You're appointment is next Monday.",
+    "a": [
+      "since",
+      "would enroll",
+      "to",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had enrolled",
+    "a": [
+      "much",
+      "more",
+      "most",
+      "many"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "plenty",
+    "a": [
+      "since",
+      "would",
+      "yours",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The teacher will leave the classroom when her studentstheir exams.",
+    "a": [
+      "but",
+      "the",
+      "finish",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "finished",
+    "a": [
+      "will",
+      "to",
+      "so",
+      "a lot"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "so much",
+    "a": [
+      "who",
+      "will",
+      "the",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "what",
+    "a": [
+      "will",
+      "but",
+      "Either are going one prefer?",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Either",
+    "a": [
+      "because",
+      "are going",
+      "would",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "He bought ice cream cones as a surprise for his family.",
+    "a": [
+      "since",
+      "(1), (4), (2), (3), (5)",
+      "the",
+      "so"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Yusuf lost his entire research projecthis computer crashed. so",
+    "a": [
+      "any",
+      "when",
+      "and",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "during",
+    "a": [
+      "would",
+      "an",
+      "for",
+      "must go"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "must",
+    "a": [
+      "so",
+      "any",
+      "asked",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "asking",
+    "a": [
+      "some",
+      "so",
+      "faster than",
+      "a"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "fastest than",
+    "a": [
+      "must",
+      "so",
+      "an",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "could to",
+    "a": [
+      "bought",
+      "for",
+      "would",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "had bought",
+    "a": [
+      "much",
+      "many",
+      "more",
+      "most"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "many",
+    "a": [
+      "for",
+      "so",
+      "because",
+      "had arrived"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "arrived",
+    "a": [
+      "an",
+      "because",
+      "since",
+      "have performed"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "were performed",
+    "a": [
+      "has just got off",
+      "because",
+      "but",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "is just get off",
+    "a": [
+      "for",
+      "are produced",
+      "because",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The strawberriesby the children who picked them.",
+    "a": [
+      "were all eaten",
+      "the",
+      "because",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "had all eaten",
+    "a": [
+      "some",
+      "whom",
+      "but",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "which",
+    "a": [
+      "but",
+      "for",
+      "had / would learn",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  }
+]

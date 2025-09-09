@@ -1,0 +1,470 @@
+[
+  {
+    "q": "A: Dolive in Riyadh? B: Yes, they do.",
+    "a": [
+      "since",
+      "some",
+      "Ahmed's parents",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Ahmed's parent’s",
+    "a": [
+      "much",
+      "many",
+      "more",
+      "most"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "more",
+    "a": [
+      "would",
+      "because",
+      "any",
+      "a lot"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "so much",
+    "a": [
+      "so",
+      "for",
+      "some",
+      "used to be"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "is used to be",
+    "a": [
+      "changed",
+      "an",
+      "and",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "has changed",
+    "a": [
+      "have been studying",
+      "an",
+      "some",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had studied",
+    "a": [
+      "any",
+      "and",
+      "would",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "must",
+    "a": [
+      "must study",
+      "an",
+      "will",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "must to study",
+    "a": [
+      "but",
+      "some",
+      "since",
+      "will understand"
+    ],
+    "correct": 3,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "would understand",
+    "a": [
+      "would",
+      "will celebrate",
+      "because",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "would celebrate",
+    "a": [
+      "wanted",
+      "a",
+      "since",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "have wanted",
+    "a": [
+      "to",
+      "any",
+      "will",
+      "was writing"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Hey, …… took my pen!",
+    "a": [
+      "since",
+      "but",
+      "who",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "whom",
+    "a": [
+      "to",
+      "will",
+      "since",
+      "did"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Mr. Hill has been working in the library …… six hours without taking a break. for",
+    "a": [
+      "because",
+      "but",
+      "to",
+      "for"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "from",
+    "a": [
+      "Which",
+      "an",
+      "to",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "That",
+    "a": [
+      "but",
+      "a",
+      "it",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "these",
+    "a": [
+      "think.",
+      "so",
+      "some",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Don't rush when …… courses for next term.",
+    "a": [
+      "choosing",
+      "but",
+      "a",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "are choosing",
+    "a": [
+      "will",
+      "because",
+      "to",
+      "might"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "University is much easier for a student …… speaks English.",
+    "a": [
+      "so",
+      "will",
+      "because",
+      "who"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "who he he",
+    "a": [
+      "the teacher's office is located.",
+      "to",
+      "an",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Cathy said her teacher ... at 5:30, but she actually came at 6:30.",
+    "a": [
+      "would come",
+      "would",
+      "will",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If Muhammed …… hard he would become a great Engineer.",
+    "a": [
+      "for",
+      "the",
+      "and",
+      "studied"
+    ],
+    "correct": 3,
+    "rule": "Second conditional",
+    "explain": "If + past simple, would + base."
+  },
+  {
+    "q": "had studies",
+    "a": [
+      "to",
+      "and",
+      "be hired",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The students …… a new way to process water for six months now.",
+    "a": [
+      "would",
+      "because",
+      "since",
+      "have been developing"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "I didn't know that neither Mr. Hill …… Mr. Smith is from America. They are both British.",
+    "a": [
+      "a",
+      "nor",
+      "some",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "I'm ready to submit my term paper. I …… on it for a month.",
+    "a": [
+      "have been working",
+      "for",
+      "would",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "had worked",
+    "a": [
+      "had prepared",
+      "so",
+      "would",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "At the beach, have fun you did? D Did at the beach have fun you?",
+    "a": [
+      "but",
+      "to",
+      "company",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "compony",
+    "a": [
+      "so",
+      "Ali's car was making strange noises, so he called his mechanic.",
+      "and",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Go straight past the internet cafe, and then turn right.",
+    "a": [
+      "to",
+      "(2), (4), (1), (3).",
+      "the",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "any",
+      "a",
+      "would",
+      "Sami always wears a ring."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "any",
+      "is when can football",
+      "for",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "when.",
+    "a": [
+      "would",
+      "any",
+      "Last summer, Jim's uncle took a tour of almost every continent and saw some of the greatest landmarks in the world, like the Taj Mahal in India, and the Eiffel Tower in Paris.",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "last summer, Jim's Uncle took a tour of almost every continent and saw some of the greatest Landmarks in the World, like the Taj Mahal in India and the Eiffel tower in Paris.",
+    "a": [
+      "What a beautiful day it is! Let's go outside to have a picnic.",
+      "the",
+      "and",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The girls ran upstairs to play in their room.",
+    "a": [
+      "the",
+      "for",
+      "(1) (3) (4) (2) (5).",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Which of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "was to read their treatments had interested",
+      "the",
+      "so",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "to read",
+    "a": [
+      "since",
+      "and",
+      "the",
+      "much on up will"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  }
+]

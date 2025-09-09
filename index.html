@@ -1,0 +1,37 @@
+
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Grammar — قرامر</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&family=Tajawal:wght@400;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header>
+  <h1>Grammar — قرامر</h1>
+  <p>اختبارات قرامر (STEP) — حتى 48 نموذجًا (الملف الأصلي يحوي 42). استُخرجت المفاتيح تلقائيًا من الإجابات المُسطَّرة، مع قواعد وشروح مبسطة.</p>
+</header>
+<main>
+  <div class="tabs" id="tabs"></div>
+
+  <div class="toolbar">
+    <div id="modelTitle" class="meta">النموذج الحالي</div>
+    <div class="spacer"></div>
+    <button id="teacherBtn" class="btn-ghost">وضع المعلّم</button>
+    <button id="downloadBtn" class="btn-ghost">تنزيل JSON لهذا النموذج</button>
+    <button id="submitBtn" class="btn-primary">إنهاء وتصحيح</button>
+    <button id="resetBtn" class="btn-ghost">إعادة الاختبار</button>
+  </div>
+
+  <div id="quiz"></div>
+  <div id="scoreBox"></div>
+
+  <p class="footer-note">ملاحظة: إن وُجد سؤال لم تُكتشف خياراته كاملة من الملف، تم توليد مُلهيات (خيارات خاطئة) ذكية تلقائيًا حسب نص السؤال، مع إبقاء الإجابة الصحيحة كما في التسطير.</p>
+</main>
+<script src="app.js"></script>
+</body>
+</html>

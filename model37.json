@@ -1,0 +1,482 @@
+[
+  {
+    "q": "If it rains tomorrow, Imy raincoat.",
+    "a": [
+      "and",
+      "would",
+      "will wear",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Now it is 10:00 PM. The trainat 11:00 pm",
+    "a": [
+      "will arrive",
+      "and",
+      "since",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If you promise to keep a secret, Iyou what happened.",
+    "a": [
+      "a",
+      "will",
+      "will tell",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which of the following sentences has the CORRECT WORD ORDER?",
+    "a": [
+      "to",
+      "the",
+      "He burned incense for an hour in the morning so that his house would smell nice through the rest of the day.",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which sentence is all CAPITALIZATION correct?",
+    "a": [
+      "and",
+      "the",
+      "would",
+      "In late March, Mrs. Brown applied for a position in a new company."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Drawing can be a good hobby,most children like computer games more.",
+    "a": [
+      "a",
+      "for",
+      "but",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "They will have breakfast at an .................",
+    "a": [
+      "and",
+      "Egyptian restaurant",
+      "an",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In which sentence is all PUNCTUATION correct?",
+    "a": [
+      "and",
+      "an",
+      "the",
+      "Before Steve applied for his new job, he spent two weeks researching the company. Even though he got the job, he was not happy with his interview."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which of the following sentences is all CAPITALIZATION correct? The lives of princess Layla, princess Mona, prince",
+    "a": [
+      "because",
+      "The lives of Princess Layla, Princess Mona, Prince Ali, and the Queen are all very interesting.",
+      "a",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Sofia knows London very well. She has been theretimes.",
+    "a": [
+      "more",
+      "much",
+      "many",
+      "most"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If you eat a lot of fast food, you .................... fat. Everybody knows that. got",
+    "a": [
+      "for",
+      "get",
+      "to",
+      "but"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "going to get",
+    "a": [
+      "must follow",
+      "for",
+      "will",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Steve: Have you seen my keys?",
+    "a": [
+      "but",
+      "an",
+      "them",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Who's the personis waving at us?",
+    "a": [
+      "some",
+      "would",
+      "who",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "I like both red and green.color shirt do you think suits me better?",
+    "a": [
+      "a",
+      "any",
+      "for",
+      "Which"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I have ordered a book from Amazon. It says here it willin two to three days.",
+    "a": [
+      "to",
+      "be delivered",
+      "a",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "I couldn't answer your call because I .................... did drove",
+    "a": [
+      "to",
+      "but",
+      "was driving",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Smokingallowed inside the building.",
+    "a": [
+      "for",
+      "to",
+      "since",
+      "isn't"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I did some shopping while Iat the mall.",
+    "a": [
+      "was",
+      "be",
+      "are",
+      "is"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I know it's difficult for him now, but he'll understand when heolder.",
+    "a": [
+      "and",
+      "any",
+      "gets",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "We stayed in and watched TV last night. Whatyou do?",
+    "a": [
+      "since",
+      "will",
+      "an",
+      "did"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "A strange man walked up to me this morning and asked mehim some money.",
+    "a": [
+      "since",
+      "an",
+      "to lend",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "for lending that I lend I'm lending",
+    "a": [
+      "for",
+      "an",
+      "was watching",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "I can't hand you the jar from the top shelf. I'm not tall .................. a lot",
+    "a": [
+      "any",
+      "for",
+      "an",
+      "enough"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I didn't know you were in town. If I had known, wehave gone out for lunch.",
+    "a": [
+      "a",
+      "could",
+      "any",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "If I were less busy, Ihelp you with your homework.",
+    "a": [
+      "would",
+      "since",
+      "some",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I missed my plane, so Ito buy a new ticket.",
+    "a": [
+      "would",
+      "any",
+      "and",
+      "had"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Whileof my future, I realized I wanted to be a doctor.",
+    "a": [
+      "thinking",
+      "so",
+      "any",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "If youyour speeding tickets like I told you ages ago, you wouldn't be in trouble.",
+    "a": [
+      "but",
+      "paid",
+      "would",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Fatima: What do you write at the end of an email?",
+    "a": [
+      "any",
+      "for",
+      "hearing",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "be hearing will hear hear",
+    "a": [
+      "for",
+      "since",
+      "because",
+      "Working"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When she submitted the report to her boss, she was nervous but confident that she had done a good job.",
+    "a": [
+      "(5). (4). (2). (1). (3)",
+      "will",
+      "for",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Some others are linked to government subsidies.",
+    "a": [
+      "for",
+      "to",
+      "an",
+      "(2), (4), (1), (3)"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Ted went to a carpenter to have some closets made,they came out too small.",
+    "a": [
+      "but",
+      "an",
+      "since",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "because",
+    "a": [
+      "any",
+      "so",
+      "since",
+      "will"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "since",
+      "In 1853, the British colonial government opened the first train line in India called the Red Hill Railway.",
+      "because",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Opened the British colonial government called Red Hill Railway the first train line in India in 1853.",
+    "a": [
+      "a",
+      "so",
+      "would enroll",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "is going to enroll",
+    "a": [
+      "since",
+      "because",
+      "must go",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Mr. Amir,the students call Uncle Amir, taught the boys physical education several times a week.",
+    "a": [
+      "whom",
+      "but",
+      "to",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If I ………….. more time, Imore languages.",
+    "a": [
+      "had / would learn",
+      "so",
+      "the",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  }
+]

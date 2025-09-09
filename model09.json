@@ -1,0 +1,314 @@
+[
+  {
+    "q": "Which is the BEST WAY to combine the two sentences?",
+    "a": [
+      "and",
+      "so",
+      "the",
+      "The presentation at our university today was very good."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "If it rains tomorrow, I ……… my raincoat.",
+    "a": [
+      "a",
+      "but",
+      "the",
+      "will wear"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "going to wear",
+    "a": [
+      "but",
+      "to",
+      "because",
+      "will"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "ought",
+    "a": [
+      "any",
+      "since",
+      "some",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "a lot",
+    "a": [
+      "it",
+      "the",
+      "would",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "those",
+    "a": [
+      "for",
+      "an",
+      "and",
+      "will talk"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "going to talk",
+    "a": [
+      "for",
+      "was studying",
+      "the",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "is studying",
+    "a": [
+      "a lot",
+      "because",
+      "any",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I'm sorry I'm late for class. I couldn't findfree parking spaces.",
+    "a": [
+      "because",
+      "a",
+      "any",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Let me know when youreading. I want to know how long you work for.",
+    "a": [
+      "stop",
+      "a",
+      "to",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "stops",
+    "a": [
+      "any",
+      "some",
+      "for",
+      "the"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "(c) since",
+    "a": [
+      "Does",
+      "some",
+      "would",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Which of the following sentences has the CORRECT WORD ORDER?",
+    "a": [
+      "and",
+      "because",
+      "the",
+      "Both fish and meat contain a lot of protein, but the oils in fish are healthier than the fat in meat."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "When Iwriting this paper, I’m going for a coffee.",
+    "a": [
+      "some",
+      "any",
+      "finish",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "finished",
+    "a": [
+      "for",
+      "an",
+      "so",
+      "differently"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "different",
+    "a": [
+      "so",
+      "some",
+      "Your appointment will be next Monday.",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Your appointment has next Monday.",
+    "a": [
+      "because",
+      "since",
+      "finish",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "finishing",
+    "a": [
+      "must",
+      "because",
+      "so",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "could to",
+    "a": [
+      "will",
+      "has just got off",
+      "but",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "just gets off",
+    "a": [
+      "whom",
+      "any",
+      "and",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "which",
+    "a": [
+      "are",
+      "is",
+      "be",
+      "were"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "I'm sure you will all enjoyin the course Physics 101. The teacher is great.",
+    "a": [
+      "the",
+      "for",
+      "so",
+      "yourselves"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "ourselves",
+    "a": [
+      "will",
+      "must go",
+      "a",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "must",
+    "a": [
+      "since",
+      "to",
+      "an",
+      "for"
+    ],
+    "correct": 3,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Mr. Brownat the university for ten years when he decided to change jobs.",
+    "a": [
+      "had been teaching",
+      "to",
+      "will",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "One day, he stopped by the supermarket along his way home.",
+    "a": [
+      "(1), (4), (2), (3), (5)",
+      "since",
+      "to",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  }
+]

@@ -1,0 +1,446 @@
+[
+  {
+    "q": "Choose the best way to join these sentences.",
+    "a": [
+      "a",
+      "A- She likes drinking tea, but she doesn't like drinking coffee.",
+      "the",
+      "for"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "If Ithis year, I will celebrate with a big cake.",
+    "a": [
+      "am graduating",
+      "am graduate",
+      "graduate",
+      "will graduate"
+    ],
+    "correct": 2,
+    "rule": "First conditional",
+    "explain": "If + present simple, will + base."
+  },
+  {
+    "q": "When I was in collegea very good student.",
+    "a": [
+      "I am using to be",
+      "I used to be",
+      "I'm used to",
+      "I use to be"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I'm so busy with my term paper. I haven't slept muchlast Thursday.",
+    "a": [
+      "for",
+      "since",
+      "from",
+      "until"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When I logged on to the course website, I was happy to find that my papertwo",
+    "a": [
+      "A- had been scored",
+      "any",
+      "the",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "I need to go to the bookstore. I don't havebooks for the Engineering course.",
+    "a": [
+      "any",
+      "a lot",
+      "much",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "It has been really nice teaching this course. I hope you have enjoyed.as much as",
+    "a": [
+      "would",
+      "D- yourselves",
+      "will",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I metteachers at the conference last week, but I didn't meet any students.",
+    "a": [
+      "few",
+      "a little",
+      "some",
+      "much"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If the teacher asks you a question, youimmediately.",
+    "a": [
+      "must answering",
+      "must answer",
+      "must",
+      "must to answer"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Jane: Do you eat a lot of fast food at university? Jenny: Yes, I eattwo or three times a week.",
+    "a": [
+      "these",
+      "him",
+      "it",
+      "those"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When the studentshard, they pass their exams.",
+    "a": [
+      "study",
+      "studied",
+      "will study",
+      "would study"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Dave isin English of all the students.",
+    "a": [
+      "stronger",
+      "strongly",
+      "most strong",
+      "the strongest"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Judy: I saw Mrs. Nora yesterday.",
+    "a": [
+      "would",
+      "some",
+      "because",
+      "C- Does"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Our professor told usabout the exam. He said it would be easy.",
+    "a": [
+      "no worrying",
+      "not to worry",
+      "don't worry",
+      "not worry"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Mike was in class when his brotherhim.",
+    "a": [
+      "calls",
+      "called",
+      "has called",
+      "had called"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "This bookby Mr. Johnston, the Marketing teacher, three years ago.",
+    "a": [
+      "is written",
+      "has been written",
+      "was written",
+      "had been written"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Studentsexpected to write very long papers in their first year.",
+    "a": [
+      "not",
+      "do not",
+      "are not",
+      "will not"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Hr. Harris has been a teacherten years.",
+    "a": [
+      "for",
+      "from",
+      "since",
+      "during"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If Mrs. Smith had had more time, shehave planned her lessons better.",
+    "a": [
+      "would",
+      "must",
+      "can",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "Third conditional",
+    "explain": "If + had + past participle, would have + past participle."
+  },
+  {
+    "q": "Fatima failed her final exam, so shetake the course again.",
+    "a": [
+      "would to",
+      "should to",
+      "can to",
+      "had to"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The professorteaches us English is very good.",
+    "a": [
+      "who",
+      "which",
+      "that he",
+      "who he"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Ibecome an engineer if I could, but I don't have good grades.",
+    "a": [
+      "can",
+      "will",
+      "shall",
+      "would"
+    ],
+    "correct": 3,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "When you submit your essays,you leave the room quietly, please?",
+    "a": [
+      "shall",
+      "would",
+      "should",
+      "must"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I don't know howto answer that question. It was very easy.",
+    "a": [
+      "did the student fail",
+      "the student failed",
+      "did fail the student",
+      "failed the student"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "My uncle told memathematics because it is very difficult.",
+    "a": [
+      "no studying",
+      "not to study",
+      "don't study",
+      "not study"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Bob wrote a very nice and well-organized essay, just like his teacherhim.",
+    "a": [
+      "he taught",
+      "he teaches",
+      "has taught",
+      "had taught"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mrs. Davis,we saw at the lecture last week, is in London for a confernce.",
+    "a": [
+      "she",
+      "her",
+      "whom",
+      "which"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Did you know that neither TedTom graduated this year?",
+    "a": [
+      "nor",
+      "also",
+      "either",
+      "neither"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "He is as a teacher,so is his brother.",
+    "a": [
+      "if",
+      "or",
+      "and",
+      "that"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which sentence has the CORRECT PUNCTUATION?",
+    "a": [
+      "After, school ended we traveled to London.",
+      "After school, ended we traveled to London.",
+      "After school ended we, traveled to London.",
+      "After school ended, we traveled to London."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Choose the sentence with the RIGHT WORD ORDER.",
+    "a": [
+      "I wonder what time he usually comes back from work.",
+      "I wonder what time comes he usually back from work.",
+      "I wonder what time usually comes he back from work.",
+      "I wonder what time he comes usually back from work."
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Would you mind? I can't see the TV.",
+    "a": [
+      "your head moving",
+      "to moving your head",
+      "moving your head",
+      "to move your head"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Choose the sentence with the RIGHT WORD ORDER.",
+    "a": [
+      "A four-year course in Business Studies is taking Noura.",
+      "Noura is taking a four-year course in Business studies.",
+      "Noura is taking in Business Studies a four-year course.",
+      "In Business Studies is Noura taking a four-year course."
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT? Ibn Firas is well known in the Arab World for he's early airplane.",
+    "a": [
+      "is",
+      "in",
+      "Arab",
+      "he's"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "To which sentence from the paragraph below can we add the following phrase?",
+    "a": [
+      "A- (1)",
+      "so",
+      "the",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "since",
+      "D- drunk",
+      "and",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "100. Which of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "for",
+      "is lecture important really must best to",
+      "would",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  }
+]

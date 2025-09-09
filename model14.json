@@ -1,0 +1,494 @@
+[
+  {
+    "q": "Choose the sentence with the RIGHT PUNCTUATION.",
+    "a": [
+      "to",
+      "some",
+      "Paul doesn't have many friends in New York.",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The Food Science book was very short. It didn't havechapters.",
+    "a": [
+      "more",
+      "much",
+      "most",
+      "many"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "some",
+    "a": [
+      "will",
+      "wrote",
+      "for",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has written",
+    "a": [
+      "have been waiting",
+      "an",
+      "any",
+      "so"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had waited",
+    "a": [
+      "directly",
+      "any",
+      "and",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "directed",
+    "a": [
+      "an",
+      "whom",
+      "to",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "which",
+    "a": [
+      "share",
+      "some",
+      "to",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "shared",
+    "a": [
+      "but",
+      "the",
+      "slept",
+      "because"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "have slept",
+    "a": [
+      "because",
+      "some",
+      "to",
+      "themselves"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Helen has studied Biologysix months. She really enjoys it. for",
+    "a": [
+      "for",
+      "would",
+      "the",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "from",
+    "a": [
+      "and",
+      "the",
+      "will understand",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "would understand",
+    "a": [
+      "will",
+      "Which",
+      "for",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Whose",
+    "a": [
+      "the",
+      "any",
+      "and",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "a lot",
+    "a": [
+      "will",
+      "some",
+      "any",
+      "since"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I took a lot of notes while the Professor ……………….",
+    "a": [
+      "since",
+      "to",
+      "for",
+      "was speaking"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Take a break when youfeeling tired from all the reading.",
+    "a": [
+      "because",
+      "start",
+      "since",
+      "and"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "You need to workYou must finish the job today.",
+    "a": [
+      "a",
+      "to",
+      "but",
+      "hard"
+    ],
+    "correct": 3,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "I don't know wherein this course.",
+    "a": [
+      "the lectures are given",
+      "a",
+      "an",
+      "the"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Our professor said the coursefor three weeks, but it actually lasted for a month.",
+    "a": [
+      "but",
+      "for",
+      "will",
+      "would last"
+    ],
+    "correct": 3,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "If Willhis term paper on time, he wouldn't have failed the class.",
+    "a": [
+      "will",
+      "had submitted",
+      "to",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "First conditional",
+    "explain": "If + present simple, will + base."
+  },
+  {
+    "q": "submitted",
+    "a": [
+      "would",
+      "whom",
+      "to",
+      "some"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "which",
+    "a": [
+      "some",
+      "and",
+      "nor",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "also",
+    "a": [
+      "an",
+      "and",
+      "might",
+      "since"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If Georgehow difficult the exam was going to be, he would have prepared better.",
+    "a": [
+      "will",
+      "to",
+      "but",
+      "had known"
+    ],
+    "correct": 3,
+    "rule": "Second conditional",
+    "explain": "If + past simple, would + base."
+  },
+  {
+    "q": "When he was young, my brother often talked abouta doctor.",
+    "a": [
+      "since",
+      "becoming",
+      "an",
+      "any"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "become",
+    "a": [
+      "some",
+      "had to",
+      "the",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The womangave the presentation teaches at our university. who",
+    "a": [
+      "but",
+      "any",
+      "so",
+      "who"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "which",
+    "a": [
+      "and",
+      "some",
+      "writing",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "to write",
+    "a": [
+      "some",
+      "would",
+      "any",
+      "would teach"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "He has always enjoyed sports and began racing cars from a very young age.",
+    "a": [
+      "(3), (2), (4), (1)",
+      "any",
+      "a",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Choose the BEST WAY to make the sentences into a paragraph.",
+    "a": [
+      "(2), (3), (1), (4)",
+      "an",
+      "would",
+      "some"
+    ],
+    "correct": 0,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Choose the sentence with the RIGHT CAPITAL LETTERS.",
+    "a": [
+      "would",
+      "an",
+      "Dave and I studied English in the United Kingdom for a year and came back in February.",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Dave and I studied English in the United Kingdom for a year and came back in february.",
+    "a": [
+      "the",
+      "but",
+      "Mr. Ahmad's son is late today.",
+      "for"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Mr. Ahmads' son is late today.",
+    "a": [
+      "a",
+      "would",
+      "since",
+      "never"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Choose the sentence with the RIGHT WORD ORDER.",
+    "a": [
+      "a",
+      "would",
+      "since",
+      "The university sports club was established in 2003."
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Which of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "an",
+      "the",
+      "a",
+      "There's to choose wish try"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "There's",
+    "a": [
+      "and",
+      "The 2010 FIFA World Cup was held in South Africa, and the next will be hosted by Brazil in 2014, the first time on the continent of South America since 1978.",
+      "so",
+      "a"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The 2010 FIFA World cup was held in South Africa. and the next will be hosted by Brazil in 2014, the first time on the continent of south America since 1978.",
+    "a": [
+      "They banged on the container like a drum until it cracked into pieces, then they used the pieces to make designs in the sand and scratch drawings on the large rocks.",
+      "an",
+      "so",
+      "but"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "In which sentence is all PUNCTUATION correct?",
+    "a": [
+      "since",
+      "\"What is it?\" she asked bracing herself.",
+      "for",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "What is it, she asked, bracing herself.",
+    "a": [
+      "any",
+      "because",
+      "some",
+      "Collecting were most difficult for"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Collecting",
+    "a": [
+      "is",
+      "was",
+      "were",
+      "are"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  }
+]

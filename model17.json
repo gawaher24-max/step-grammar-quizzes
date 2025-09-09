@@ -1,0 +1,470 @@
+[
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT? Ted and Tom went to play badminton at the gym hours ago. and still has not returned home yet.",
+    "a": [
+      "to play",
+      "ago",
+      "has",
+      "yet"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "You need …… of money to go to a private university.",
+    "a": [
+      "large amount",
+      "too much",
+      "so much",
+      "a lot"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Anna and Lucy hurt …… when they fell down the college front stairs.",
+    "a": [
+      "themselves",
+      "theirselves",
+      "oneselves",
+      "ourselves"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If I had known how difficult the exam was, I …… much better.",
+    "a": [
+      "prepared",
+      "had prepared",
+      "would prepare",
+      "would have prepared"
+    ],
+    "correct": 3,
+    "rule": "Third conditional",
+    "explain": "If + had + past participle, would have + past participle."
+  },
+  {
+    "q": "I bought two notebooks yesterday, but I don't have …… pens.",
+    "a": [
+      "some",
+      "any",
+      "a lot",
+      "much"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I've been looking for Professor Brown.30 minutes. Do you know where he is?",
+    "a": [
+      "for",
+      "yet",
+      "since",
+      "about"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Mr. Smith just …… his new book last week. He hopes it will be successful.",
+    "a": [
+      "publish",
+      "published",
+      "publishing",
+      "has published"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "If the teacher gives me a bad grade on my essay, I …… to him about it.",
+    "a": [
+      "talk",
+      "am talk",
+      "will talk",
+      "going to talk"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The security guard …… works in our college is really nice.",
+    "a": [
+      "who",
+      "which",
+      "that he",
+      "who he"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "70Sara still live on campus? I haven't seen her for weeks.",
+    "a": [
+      "Has",
+      "Had",
+      "Does",
+      "Would"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "When you have a question, you should ask someone …… can give a clear answer, like your teacher.",
+    "a": [
+      "he",
+      "who",
+      "whose",
+      "who he"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Please listen …… to this part of the lecture, it's the most difficult one.",
+    "a": [
+      "attentiveness",
+      "attentively",
+      "attention",
+      "attentive"
+    ],
+    "correct": 1,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Mary …… on her term paper when the phone rang.",
+    "a": [
+      "worked",
+      "will work",
+      "is working",
+      "was working"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When I …… writing this paper, I'm going for a coffee.",
+    "a": [
+      "finish",
+      "finished",
+      "will finish",
+      "would finish"
+    ],
+    "correct": 0,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Drinks …… allowed in the library.",
+    "a": [
+      "will not",
+      "are not",
+      "do not",
+      "not"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "When the teachers …… grading the tests, we'll get Our scores.",
+    "a": [
+      "finish",
+      "finished",
+      "will finish",
+      "would finish"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Jake hasn't missed a single classthe beginning of the term.",
+    "a": [
+      "for",
+      "until",
+      "from",
+      "since"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "The chemistry teacher, …… everyone liked, retired last year.",
+    "a": [
+      "Which",
+      "whom",
+      "him",
+      "he"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mrs. Hillwe saw in class yesterday is moving back to the U.S.",
+    "a": [
+      "she",
+      "her",
+      "whom",
+      "which"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "I don't like university as …… as I liked high school.",
+    "a": [
+      "plenty",
+      "more",
+      "many",
+      "much"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I'm sure you will all enjoy …… in the course Physics 101. The teacher is great.",
+    "a": [
+      "yourselves",
+      "ourselves",
+      "yourself",
+      "yours"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Anna was in the library when Lisa …….",
+    "a": [
+      "calls",
+      "called",
+      "has called",
+      "had called"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "I have had a lot of coffee today because I had to study so hard. I.drink any more.",
+    "a": [
+      "don't have to",
+      "must not to",
+      "shouldn't",
+      "couldn't"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Neither my father …… my mother has studied at university. А- neither",
+    "a": [
+      "D- had been reported",
+      "any",
+      "would",
+      "for"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "During my university studies I sometimes thought of …… up.",
+    "a": [
+      "give",
+      "gave",
+      "to give",
+      "giving"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "That poem iswritten.",
+    "a": [
+      "beautifully",
+      "beautiful",
+      "beauty",
+      "beautification"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Our universityby over 100,000 people.",
+    "a": [
+      "has been attending",
+      "has been attended",
+      "has attended",
+      "was attended"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Lindabooks since she was three years old.",
+    "a": [
+      "read",
+      "was reading",
+      "has been reading",
+      "had been reading"
+    ],
+    "correct": 2,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "If I.how a good teacher Mr. Taylor was, I would have enrolled in his class years ago.",
+    "a": [
+      "know",
+      "knew",
+      "had known",
+      "have known"
+    ],
+    "correct": 2,
+    "rule": "Second conditional",
+    "explain": "If + past simple, would + base."
+  },
+  {
+    "q": "I'm sorry to make youyour project again, but it's not good enough.",
+    "a": [
+      "submitting",
+      "submitted",
+      "to submit",
+      "submit"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Which of the underlined words in the sentence is INCORRECT?",
+    "a": [
+      "a",
+      "to",
+      "to helping one goal hopes finishes",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which of the following sentences is all PUNCTUATION correct?",
+    "a": [
+      "After all, the course's are finished, whos' going to be the at the top of the class?",
+      "After all the courses are finished, who's going to be the at the top of the class.",
+      "After all the courses are finished, who's going to be the at the top of the class?",
+      "After all, the courses are finished, whos going to be the at the top of the class."
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which sentence is all CAPITALIZATION correct?",
+    "a": [
+      "but",
+      "because",
+      "D- Not all Americans speak English or are born in North America; Mexico and Korea are two countries that millions of Americans come from.",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which sentence is all PUNCTUATION correct?",
+    "a": [
+      "Chris had a difficult day at work, so when he came home, he didn't want to talk to his family.",
+      "Chris had a difficult day at work, so when he came home; he didnt want to talk: to his family.",
+      "Chris had a difficult day at work, so when he came home; he didnt want to talk; to his family.",
+      "Chris had a difficult day at work, so when he came home: he didn't want to talk to his family."
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "Mrs. Smith put them away in the cupboard, after dinner was over, and washed the plates, dried them.",
+      "After dinner was over, Mrs. Smith washed the plates, dried them, and put them away in the cupboard.",
+      "Mrs. Smith washed the plates, dried them, after dinner was over, and put them away in the cupboard.",
+      "Dried them, Mrs. Smith put them away in the cupboard, after dinner was over, and washed the plates."
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which sentence is all PUNCTUATION correct?",
+    "a": [
+      "When I was younger my father said my hair looked like a rat's nest.",
+      "When I was younger my father said, my hair looked like a rats nest.",
+      "When I was younger. My father said my hair looked like a rats' nest.",
+      "When I was younger, my father said my hair looked like a rat’s nest."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which sentence is all CAPATALIZATION correct?",
+    "a": [
+      "At first, my brother, Ali, wanted to study mathematics at King Khalid University, but one of his teachers, Mr. Brown, persuaded him to join the College of Business after he finishes the first semester in December.",
+      "At first, my Brother, Ali, wanted to study Mathematics at King Khalid University, but one of his Teachers, mr. Brown, persuaded him to join the College of business after he finishes the First Semester in December.",
+      "At first, my brother, ali, wanted to study Mathematics at King khalid university, but one of his Teachers, Mr. Brown, persuaded him to join the college of Business after he finishes the first semester in December.",
+      "At First, my brother. Ali, wanted to study mathematics at King Khalid University, but one of his teachers, mr. Brown, persuaded him to join the College of business after he finishes the First Semester in December."
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "In which sentence is all CAPITALIZATION correct?",
+    "a": [
+      "This year, Maria is studying business studies, math, English, and spanish.",
+      "This Year, Maria is studying. Business Studies, Math, English, and Spanish.",
+      "This year, Maria is studying business studies, math, English, and Spanish.",
+      "This year, Maria is studying Business Studies, Math, English, and Spanish."
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Which one of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "some",
+      "run their After starting",
+      "the",
+      "to"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "q": "When you call the school, you should leave your message with the personanswers.",
+    "a": [
+      "who",
+      "would",
+      "to",
+      "any"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Anna has almost finished her geography course. She only hasassignments left.",
+    "a": [
+      "an",
+      "but",
+      "a few",
+      "some"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "a little",
+    "a": [
+      "was listening",
+      "but",
+      "some",
+      "and"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "students should always pack their school bags by ……………",
+    "a": [
+      "the",
+      "themselves",
+      "an",
+      "since"
+    ],
+    "correct": 1,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "theirselves",
+    "a": [
+      "has been waiting",
+      "for",
+      "to",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "had waited",
+    "a": [
+      "will",
+      "to",
+      "had asked",
+      "and"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "has asked",
+    "a": [
+      "speaking",
+      "the",
+      "but",
+      "since"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Mia justher term paper an hour ago.",
+    "a": [
+      "for",
+      "and",
+      "finished",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "finishing",
+    "a": [
+      "the",
+      "any",
+      "Eric's and Mike's expectations of owning a business couldn't have been more different.",
+      "to"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Eric's and Mikes expectations of owning a business couldn't have been more different.",
+    "a": [
+      "was would exactly thing.",
+      "since",
+      "for",
+      "an"
+    ],
+    "correct": 0,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "would",
+    "a": [
+      "since",
+      "the",
+      "so",
+      "any"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Since",
+    "a": [
+      "so",
+      "when",
+      "a",
+      "an"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "Which of the underlined words or phrases is INCORRECT?",
+    "a": [
+      "will",
+      "since",
+      "writes about plan his boss",
+      "would"
+    ],
+    "correct": 2,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "about",
+    "a": [
+      "Lucy had clearly fallen asleep while sitting in the car, but when asked about it later, she claimed she was only relaxing.",
+      "would",
+      "a",
+      "will"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "While sitting in the car, but when asked about it later, she claimed he was only relaxing. Lucy had obviously fallen asleep.",
+    "a": [
+      "but",
+      "a",
+      "to",
+      "have completed"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "will complete",
+    "a": [
+      "an",
+      "any",
+      "to",
+      "used to be"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "uses to be",
+    "a": [
+      "but",
+      "a",
+      "since",
+      "will study"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Mike has been a university student …… six months now.",
+    "a": [
+      "an",
+      "will",
+      "any",
+      "for"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In which sentence is all Punctuation correct?",
+    "a": [
+      "would",
+      "the",
+      "an",
+      "After they went to hajj, they returned home to their countries and went back to their old routines."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "After they went to hajj they returned home to their countries; and went back to their old routines.",
+    "a": [
+      "will",
+      "some",
+      "the",
+      "did"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "were",
+    "a": [
+      "was not offered",
+      "will",
+      "so",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Choose the CORRECT ORDER to make the following sentences into a paragraph",
+    "a": [
+      "and",
+      "because",
+      "will",
+      "(4), (5), (1), (3), (2)"
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "Tom could have gone to Rome with his friends, …………",
+    "a": [
+      "some",
+      "will",
+      "but he didn't",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "Modals",
+    "explain": "Modal + base verb."
+  },
+  {
+    "q": "Which sentence has the CORRECT WORD ORDER?",
+    "a": [
+      "for",
+      "an",
+      "a",
+      "The students love to chase each other around the school yard until one of them falls and starts to cry."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "Around the school yard until one of them falls, the students love to chase each other around, and starts to cry.",
+    "a": [
+      "the",
+      "since",
+      "will",
+      "The employees worked hard all morning, had lunch and then kept working the whole afternoon."
+    ],
+    "correct": 3,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "The employees worked hard all morning, and then kept working the whole afternoon, had lunch.",
+    "a": [
+      "some",
+      "used to drink",
+      "but",
+      "because"
+    ],
+    "correct": 1,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "is used to drink",
+    "a": [
+      "be",
+      "are",
+      "were",
+      "is"
+    ],
+    "correct": 2,
+    "rule": "Infinitive (purpose)",
+    "explain": "to + base للتعبير عن الغاية/الغاية."
+  },
+  {
+    "q": "may be",
+    "a": [
+      "some",
+      "and",
+      "slept",
+      "an"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "sleep",
+    "a": [
+      "would",
+      "any",
+      "because",
+      "are not"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "do not not",
+    "a": [
+      "will",
+      "the",
+      "to study",
+      "but"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "that they study",
+    "a": [
+      "are",
+      "was",
+      "is",
+      "were"
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "will be",
+    "a": [
+      "would",
+      "because",
+      "the",
+      "a"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "Jane …… physics since she was 15 years old. She is really knowledgeable.",
+    "a": [
+      "will",
+      "has been studying",
+      "to",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "Present perfect (since/for)",
+    "explain": "since لنقطة زمنية، for لمدة زمنية."
+  },
+  {
+    "q": "was studying",
+    "a": [
+      "will",
+      "some",
+      "an",
+      "who"
+    ],
+    "correct": 3,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In which sentence is all PUNCTUATION correct?",
+    "a": [
+      "some",
+      "but",
+      "and",
+      "My favorite foods include: pasta, fish, bread, and broccoli."
+    ],
+    "correct": 3,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "My favorite foods include, pasta, fish, bread, and, broccoli.",
+    "a": [
+      "carefully",
+      "the",
+      "since",
+      "to"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "more careful",
+    "a": [
+      "any",
+      "so",
+      "will",
+      "would"
+    ],
+    "correct": 1,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "In which sentence is al CAPITALIZATION correct?",
+    "a": [
+      "King Faisal Mosque is in Islamabad.",
+      "but",
+      "a",
+      "because"
+    ],
+    "correct": 0,
+    "rule": "Relative clauses",
+    "explain": "ضمائر الوصل: who/which/that حسب العاقل/غير العاقل والدور."
+  },
+  {
+    "q": "king faisal mosque is in Islamabad.",
+    "a": [
+      "for",
+      "to",
+      "will stop",
+      "will"
+    ],
+    "correct": 2,
+    "rule": "",
+    "explain": ""
+  },
+  {
+    "q": "stop",
+    "a": [
+      "Last night, he read two books to prepare for his lecture at City University next week.",
+      "the",
+      "since",
+      "would"
+    ],
+    "correct": 0,
+    "rule": "",
+    "explain": ""
+  }
+]
